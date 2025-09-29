@@ -1,0 +1,1156 @@
+Transaction ID,Date,Product Category,Product Name,Units Sold,Unit Price,Total Revenue,Region,Payment Method
+10001,1/1/2024 0:00,Electronics,iPhone 14 Pro,2,999.99,1999.98,North America,Credit Card
+10002,1/2/2024 0:00,Home Appliances,,1,499.99,499.99,Europe,PayPal
+10003,1/3/2024 0:00,Clothing,,3,69.99,209.97,Asia,Debit Card
+10004,1/4/2024 0:00,Books,,,15.99,63.96,North America,Credit Card
+10005,1/5/2024 0:00,Beauty Products,Neutrogena Skincare Set,1,89.99,89.99,Europe,PayPal
+10006,1/6/2024 0:00,Sports,,,29.99,149.95,Asia,Credit Card
+10007,1/7/2024 0:00,Electronics,,1,2499.99,2499.99,North America,Credit Card
+10008,1/8/2024 0:00,Home Appliances,,2,599.99,1199.98,Europe,
+10009,1/9/2024 0:00,Clothing,,6,89.99,539.94,Asia,Debit Card
+10010,1/10/2024 0:00,Books,Dune by Frank Herbert,2,25.99,51.98,North America,Credit Card
+10011,1/11/2024 0:00,Beauty Products,,1,129.99,129.99,Europe,PayPal
+10012,1/12/2024 0:00,Sports,,3,199.99,599.97,Asia,Credit Card
+10013,1/13/2024 0:00,Electronics,,2,749.99,1499.98,North America,Credit Card
+10014,1/14/2024 0:00,Home Appliances,,1,189.99,171.25,Europe,PayPal
+10015,1/15/2024 0:00,Clothing,,,249.99,499.98,Asia,Debit Card
+10016,1/16/2024 0:00,Books,,,35.99,107.97,North America,Credit Card
+10017,1/17/2024 0:00,Beauty Products,,1,399.99,399.99,Europe,PayPal
+10018,1/18/2024 0:00,Sports,,4,119.99,479.96,Asia,Credit Card
+10019,1/19/2024 0:00,Electronics,,2,499.99,999.98,North America,
+10020,1/20/2024 0:00,Home Appliances,,1,99.99,99.99,Europe,PayPal
+10021,1/21/2024 0:00,Clothing,,3,59.99,179.97,Asia,Debit Card
+10022,1/22/2024 0:00,Books,,2,22.99,45.98,North America,Credit Card
+10023,1/23/2024 0:00,Beauty Products,,1,49.99,49.99,Europe,PayPal
+10024,1/24/2024 0:00,Sports,,3,29.99,89.97,Asia,Credit Card
+10025,1/25/2024 0:00,Electronics,,1,299.99,299.99,North America,Credit Card
+10026,1/26/2024 0:00,Home Appliances,,1,179.99,179.99,Europe,PayPal
+10027,1/27/2024 0:00,Clothing,,2,179.99,359.98,Asia,Debit Card
+10028,1/28/2024 0:00,Books,,3,12.99,38.97,North America,Credit Card
+10029,1/29/2024 0:00,Beauty Products,,1,29.99,29.99,Europe,PayPal
+10030,1/30/2024 0:00,Sports,,2,129.99,259.98,Asia,Credit Card
+10031,1/31/2024 0:00,Electronics,,2,349.99,699.98,North America,Credit Card
+10032,2/1/2024 0:00,Home Appliances,,3,89.99,269.97,Europe,PayPal
+10033,2/2/2024 0:00,Clothing,,,29.99,149.95,Asia,Debit Card
+10034,2/3/2024 0:00,Books,1984 by George Orwell,4,19.99,79.96,North America,
+10035,2/4/2024 0:00,Beauty Products,,2,39.99,79.98,Europe,PayPal
+10036,2/5/2024 0:00,Sports,,1,1895,1895,Asia,Credit Card
+10037,2/6/2024 0:00,Electronics,,,399.99,1357.16,North America,Credit Card
+10038,2/7/2024 0:00,Home Appliances,,2,799.99,1599.98,Europe,
+10039,2/8/2024 0:00,Clothing,,4,59.99,239.96,Asia,Debit Card
+10040,2/9/2024 0:00,Books,,3,24.99,74.97,North America,Credit Card
+10041,2/10/2024 0:00,Beauty Products,Estee Lauder Advanced Night Repair,,105,105,Europe,PayPal
+10042,2/11/2024 0:00,Sports,,2,129.99,259.98,Asia,Credit Card
+10043,2/12/2024 0:00,Electronics,GoPro HERO10 Black,3,399.99,1199.97,North America,Credit Card
+10044,2/13/2024 0:00,Home Appliances,,1,199.99,199.99,Europe,PayPal
+10045,2/14/2024 0:00,Clothing,,,139.99,279.98,Asia,Debit Card
+10046,2/15/2024 0:00,Books,Becoming by Michelle Obama,4,32.5,130,North America,Credit Card
+10047,2/16/2024 0:00,Beauty Products,Clinique Moisture Surge,,52,52,Europe,PayPal
+10048,2/17/2024 0:00,Sports,,6,39.99,239.94,Asia,Credit Card
+10049,2/18/2024 0:00,Electronics,,2,129.99,223.49,North America,Credit Card
+10050,2/19/2024 0:00,Home Appliances,,1,299.99,299.99,Europe,PayPal
+10051,2/20/2024 0:00,Clothing,Ray-Ban Aviator Sunglasses,3,154.99,464.97,Asia,Debit Card
+10052,2/21/2024 0:00,Books,,2,26.99,53.98,North America,Credit Card
+10053,2/22/2024 0:00,Beauty Products,Shiseido Ultimate Sun Protector,1,49,49,Europe,PayPal
+10054,2/23/2024 0:00,Sports,Titleist Pro V1 Golf Balls,5,49.99,249.95,Asia,Credit Card
+10055,2/24/2024 0:00,Electronics,,4,59.99,239.96,North America,Credit Card
+10056,2/25/2024 0:00,Home Appliances,KitchenAid Artisan Stand Mixer,1,499.99,499.99,Europe,PayPal
+10057,2/26/2024 0:00,Clothing,,,29.99,149.95,Asia,Debit Card
+10058,2/27/2024 0:00,Books,Educated by Tara Westover,3,28,84,North America,Credit Card
+10059,2/28/2024 0:00,Beauty Products,,2,23,46,Europe,PayPal
+10060,2/29/2024 0:00,Sports,,1,349,349,Asia,Credit Card
+10061,3/1/2024 0:00,Electronics,Nintendo Switch,,299.99,949.81,North America,Credit Card
+10062,3/2/2024 0:00,Home Appliances,,2,199.99,399.98,Europe,PayPal
+10063,3/3/2024 0:00,Clothing,Hanes ComfortSoft T-Shirt,10,9.99,99.9,Asia,Debit Card
+10064,3/4/2024 0:00,Books,,4,18.99,75.96,North America,Credit Card
+10065,3/5/2024 0:00,Beauty Products,,1,102,102,Europe,PayPal
+10066,3/6/2024 0:00,Sports,,2,299.99,599.98,Asia,
+10067,3/7/2024 0:00,Electronics,,1,1199.99,1199.99,North America,Credit Card
+10068,3/8/2024 0:00,Home Appliances,,3,219.99,659.97,Europe,PayPal
+10069,3/9/2024 0:00,Clothing,Puma Suede Classic Sneakers,4,59.99,239.96,Asia,Debit Card
+10070,3/10/2024 0:00,Books,,2,10.99,21.98,North America,
+10071,3/11/2024 0:00,Beauty Products,,,78,78,Europe,PayPal
+10072,3/12/2024 0:00,Sports,Nike Metcon 6,3,129.99,389.97,Asia,Credit Card
+10073,3/13/2024 0:00,Electronics,HP Spectre x360 Laptop,1,1599.99,1599.99,North America,Credit Card
+10074,3/14/2024 0:00,Home Appliances,,,899.99,899.99,Europe,PayPal
+10075,3/15/2024 0:00,Clothing,Tommy Hilfiger Polo Shirt,5,49.99,249.95,Asia,Debit Card
+10076,3/16/2024 0:00,Books,,4,14.99,59.96,North America,Credit Card
+10077,3/17/2024 0:00,Beauty Products,,2,16,32,Europe,PayPal
+10078,3/18/2024 0:00,Sports,Rogue Fitness Kettlebell,3,69.99,209.97,Asia,Credit Card
+10079,3/19/2024 0:00,Electronics,,2,249.99,499.98,North America,Credit Card
+10080,3/20/2024 0:00,Home Appliances,Dyson Pure Cool Link,1,499.99,499.99,Europe,PayPal
+10081,3/21/2024 0:00,Clothing,Levi's Trucker Jacket,,89.99,179.98,Asia,Debit Card
+10082,3/22/2024 0:00,Books,,3,12.99,38.97,North America,Credit Card
+10083,3/23/2024 0:00,Beauty Products,Charlotte Tilbury Magic Cream,1,100,100,Europe,PayPal
+10084,3/24/2024 0:00,Sports,,6,24.99,149.94,Asia,Credit Card
+10085,3/25/2024 0:00,Electronics,,1,99.99,99.99,North America,Credit Card
+10086,3/26/2024 0:00,Home Appliances,,2,1299.99,2599.98,Europe,PayPal
+10087,3/27/2024 0:00,Clothing,,3,79.99,239.97,Asia,Debit Card
+10088,3/28/2024 0:00,Books,,4,13.99,55.96,North America,Credit Card
+10089,3/29/2024 0:00,Beauty Products,,1,105,105,Europe,PayPal
+10090,3/30/2024 0:00,Sports,On Running Cloud Shoes,2,129.99,259.98,Asia,Credit Card
+10091,3/31/2024 0:00,Electronics,,,99.99,199.98,North America,Credit Card
+10092,4/1/2024 0:00,Home Appliances,,1,179.99,179.99,Europe,PayPal
+10093,4/2/2024 0:00,Clothing,Adidas Originals Superstar Sneakers,4,79.99,319.96,Asia,Debit Card
+10094,4/3/2024 0:00,Books,,,14.99,44.97,North America,Credit Card
+10095,4/4/2024 0:00,Beauty Products,Tatcha The Water Cream,1,68,68,Europe,PayPal
+10096,4/5/2024 0:00,Sports,,1,999.99,999.99,Asia,Credit Card
+10097,4/6/2024 0:00,Electronics,,3,299.99,899.97,North America,
+10098,4/7/2024 0:00,Home Appliances,Vitamix Explorian Blender,1,349.99,349.99,Europe,PayPal
+10099,4/8/2024 0:00,Clothing,,6,19.99,119.94,Asia,Debit Card
+10100,4/9/2024 0:00,Books,,2,12.99,25.98,North America,Credit Card
+10101,4/10/2024 0:00,Beauty Products,,1,82,82,Europe,PayPal
+10102,4/11/2024 0:00,Sports,,2,109.99,219.98,Asia,Credit Card
+10103,4/12/2024 0:00,Electronics,Canon EOS R5 Camera,1,3899.99,3899.99,North America,Credit Card
+10104,4/13/2024 0:00,Home Appliances,,2,349.99,699.98,Europe,PayPal
+10105,4/14/2024 0:00,Clothing,H&M Slim Fit Jeans,3,39.99,119.97,Asia,Debit Card
+10106,4/15/2024 0:00,Books,The Girl on the Train by Paula Hawkins,4,10.99,43.96,North America,
+10107,4/16/2024 0:00,Beauty Products,The Ordinary Niacinamide Serum,1,6.5,6.5,Europe,PayPal
+10108,4/17/2024 0:00,Sports,,1,399.99,399.99,Asia,Credit Card
+10109,4/18/2024 0:00,Electronics,,2,229.99,459.98,North America,Credit Card
+10110,4/19/2024 0:00,Home Appliances,,1,159.99,159.99,Europe,PayPal
+10111,4/20/2024 0:00,Clothing,Old Navy Relaxed-Fit T-Shirt,4,14.99,59.96,Asia,Debit Card
+10112,4/21/2024 0:00,Books,,2,18.99,37.98,North America,
+10113,4/22/2024 0:00,Beauty Products,,1,15,15,Europe,PayPal
+10114,4/23/2024 0:00,Sports,,3,229.95,689.85,Asia,Credit Card
+10115,4/24/2024 0:00,Electronics,,,249.99,249.99,North America,Credit Card
+10116,4/25/2024 0:00,Home Appliances,,2,299.95,599.9,Europe,
+10117,4/26/2024 0:00,Clothing,,3,49.99,149.97,Asia,Debit Card
+10118,4/27/2024 0:00,Books,Atomic Habits by James Clear,4,16.99,67.96,North America,
+10119,4/28/2024 0:00,Beauty Products,,2,14.99,29.98,Europe,PayPal
+10120,4/29/2024 0:00,Sports,,1,249.99,249.99,Asia,Credit Card
+10121,4/30/2024 0:00,Electronics,Apple iPad Air,2,599.99,1199.98,North America,Credit Card
+10122,5/1/2024 0:00,Home Appliances,,1,89.99,89.99,Europe,PayPal
+10123,5/2/2024 0:00,Clothing,,,12.99,64.95,Asia,Debit Card
+10124,5/3/2024 0:00,Books,,3,14.99,44.97,North America,Credit Card
+10125,5/4/2024 0:00,Beauty Products,,1,30,30,Europe,PayPal
+10126,5/5/2024 0:00,Sports,Yeti Roadie 24 Cooler,1,199.99,222.57,Asia,Credit Card
+10127,5/6/2024 0:00,Electronics,,,499.99,499.99,North America,Credit Card
+10128,5/7/2024 0:00,Home Appliances,,2,399.99,799.98,Europe,PayPal
+10129,5/8/2024 0:00,Clothing,,3,98,294,Asia,Debit Card
+10130,5/9/2024 0:00,Books,,2,8.99,17.98,North America,Credit Card
+10131,5/10/2024 0:00,Beauty Products,,,36,36,Europe,PayPal
+10132,5/11/2024 0:00,Sports,,4,39.95,159.8,Asia,Credit Card
+10133,5/12/2024 0:00,Electronics,Microsoft Surface Laptop 4,1,1299.99,1299.99,North America,Credit Card
+10134,5/13/2024 0:00,Home Appliances,Keurig K-Mini Coffee Maker,2,79.99,159.98,Europe,PayPal
+10135,5/14/2024 0:00,Clothing,,4,34.99,139.96,Asia,Debit Card
+10136,5/15/2024 0:00,Books,,3,9.99,29.97,North America,Credit Card
+10137,5/16/2024 0:00,Beauty Products,,1,6.8,6.8,Europe,PayPal
+10138,5/17/2024 0:00,Sports,Fitbit Inspire 2,2,99.95,199.9,Asia,Credit Card
+10139,5/18/2024 0:00,Electronics,,1,1499.99,1499.99,North America,Credit Card
+10140,5/19/2024 0:00,Home Appliances,,1,139.99,139.99,Europe,PayPal
+10141,5/20/2024 0:00,Clothing,,3,44.99,134.97,Asia,Debit Card
+10142,5/21/2024 0:00,Books,,,11.99,23.98,North America,
+10143,5/22/2024 0:00,Beauty Products,,1,29.5,29.5,Europe,PayPal
+10144,5/23/2024 0:00,Sports,,1,299.99,299.99,Asia,Credit Card
+10145,5/24/2024 0:00,Electronics,,1,549,549,North America,
+10146,5/25/2024 0:00,Home Appliances,Cuisinart Coffee Center,2,199.95,399.9,Europe,PayPal
+10147,5/26/2024 0:00,Clothing,,2,98,196,Asia,Debit Card
+10148,5/27/2024 0:00,Books,,3,10.99,32.97,North America,Credit Card
+10149,5/28/2024 0:00,Beauty Products,,1,25,25,Europe,PayPal
+10150,5/29/2024 0:00,Sports,,2,149.99,299.98,Asia,Credit Card
+10151,5/30/2024 0:00,Electronics,,1,349.99,349.99,North America,Credit Card
+10152,5/31/2024 0:00,Home Appliances,,2,199.99,399.98,Europe,PayPal
+10153,6/1/2024 0:00,Clothing,,3,54.99,151.56,Asia,Debit Card
+10154,6/2/2024 0:00,Books,The Night Circus by Erin Morgenstern,2,16.99,33.98,North America,
+10155,6/3/2024 0:00,Beauty Products,,1,59,59,Europe,PayPal
+10156,6/4/2024 0:00,Sports,,1,299.99,299.99,Asia,Credit Card
+10157,6/5/2024 0:00,Electronics,,1,899.99,899.99,North America,
+10158,6/6/2024 0:00,Home Appliances,,1,499.95,499.95,Europe,PayPal
+10159,6/7/2024 0:00,Clothing,,4,24.99,99.96,Asia,Debit Card
+10160,6/8/2024 0:00,Books,,3,7.99,23.97,North America,
+10161,6/9/2024 0:00,Beauty Products,,1,36,36,Europe,PayPal
+10162,6/10/2024 0:00,Sports,,2,34.99,69.98,Asia,Credit Card
+10163,6/11/2024 0:00,Electronics,,1,1199.99,1199.99,North America,
+10164,6/12/2024 0:00,Home Appliances,,1,199.99,199.99,Europe,PayPal
+10165,6/13/2024 0:00,Clothing,,5,29.99,149.95,Asia,Debit Card
+10166,6/14/2024 0:00,Books,The Hunger Games by Suzanne Collins,4,8.99,35.96,North America,Credit Card
+10167,6/15/2024 0:00,Beauty Products,,1,16.99,16.99,Europe,PayPal
+10168,6/16/2024 0:00,Sports,,,49.99,149.97,Asia,Credit Card
+10169,6/17/2024 0:00,Electronics,,1,699.99,699.99,North America,Credit Card
+10170,6/18/2024 0:00,Home Appliances,,,139.99,279.98,Europe,PayPal
+10171,6/19/2024 0:00,Clothing,,3,34.99,104.97,Asia,Debit Card
+10172,6/20/2024 0:00,Books,,2,9.99,19.98,North America,
+10173,6/21/2024 0:00,Beauty Products,Paula's Choice Skin Perfecting 2% BHA Liquid Exfoliant,1,29.5,29.5,Europe,PayPal
+10174,6/22/2024 0:00,Sports,,1,699.99,699.99,Asia,Credit Card
+10175,6/23/2024 0:00,Electronics,,3,49.99,149.97,North America,Credit Card
+10176,6/24/2024 0:00,Home Appliances,,,49.99,99.98,Europe,PayPal
+10177,6/25/2024 0:00,Clothing,Uniqlo Airism Mesh Boxer Briefs,,14.9,59.6,Asia,Debit Card
+10178,6/26/2024 0:00,Books,,3,11.99,35.97,North America,Credit Card
+10179,6/27/2024 0:00,Beauty Products,,2,34,68,Europe,PayPal
+10180,6/28/2024 0:00,Sports,,1,146,146,Asia,Credit Card
+10181,6/29/2024 0:00,Electronics,,1,649.99,649.99,North America,Credit Card
+10182,6/30/2024 0:00,Home Appliances,,1,399.99,399.99,Europe,PayPal
+10183,7/1/2024 0:00,Clothing,Levi's 511 Slim Fit Jeans,3,59.99,179.97,Asia,Debit Card
+10184,7/2/2024 0:00,Books,The Martian by Andy Weir,2,12.99,25.98,North America,Credit Card
+10185,7/3/2024 0:00,Beauty Products,,1,190,190,Europe,PayPal
+10186,7/4/2024 0:00,Sports,,1,499.95,499.95,Asia,Credit Card
+10187,7/5/2024 0:00,Electronics,,,399,399,North America,Credit Card
+10188,7/6/2024 0:00,Home Appliances,,2,199,398,Europe,PayPal
+10189,7/7/2024 0:00,Clothing,,4,34.99,139.96,Asia,Debit Card
+10190,7/8/2024 0:00,Books,,3,10.99,32.97,North America,Credit Card
+10191,7/9/2024 0:00,Beauty Products,,1,18,18,Europe,PayPal
+10192,7/10/2024 0:00,Sports,,1,169.95,169.95,Asia,Credit Card
+10193,7/11/2024 0:00,Electronics,,1,199.99,199.99,North America,Credit Card
+10194,7/12/2024 0:00,Home Appliances,,1,199.95,199.95,Europe,PayPal
+10195,7/13/2024 0:00,Clothing,Adidas Ultraboost Running Shoes,,179.99,359.98,Asia,Debit Card
+10196,7/14/2024 0:00,Books,,2,11.99,23.98,North America,Credit Card
+10197,7/15/2024 0:00,Beauty Products,,,125,125,Europe,PayPal
+10198,7/16/2024 0:00,Sports,,1,449.99,449.99,Asia,Credit Card
+10199,7/17/2024 0:00,Electronics,,,179,358,North America,Credit Card
+10200,7/18/2024 0:00,Home Appliances,,1,99.95,99.95,Europe,PayPal
+10201,7/19/2024 0:00,Clothing,,,59.99,179.97,Asia,Debit Card
+10202,7/20/2024 0:00,Books,,2,14.99,29.98,North America,
+10203,7/21/2024 0:00,Beauty Products,Dr. Jart+ Cicapair Tiger Grass Color Correcting Treatment,1,52,52,Europe,PayPal
+10204,7/22/2024 0:00,Sports,,1,399.99,399.99,Asia,Credit Card
+10205,7/23/2024 0:00,Electronics,Samsung Galaxy Watch 4,1,299.99,299.99,North America,Credit Card
+10206,7/24/2024 0:00,Home Appliances,,1,379.99,379.99,Europe,PayPal
+10207,7/25/2024 0:00,Clothing,Lululemon Wunder Under High-Rise Leggings,2,98,196,Asia,Debit Card
+10208,7/26/2024 0:00,Books,,3,16.99,50.97,North America,
+10209,7/27/2024 0:00,Beauty Products,,1,79,79,Europe,PayPal
+10210,7/28/2024 0:00,Sports,,1,129,129,Asia,Credit Card
+10211,7/29/2024 0:00,Electronics,,1,749.99,749.99,North America,Credit Card
+10212,7/30/2024 0:00,Home Appliances,,,169.99,339.98,Europe,PayPal
+10213,7/31/2024 0:00,Clothing,,4,9.9,39.6,Asia,Debit Card
+10214,8/1/2024 0:00,Books,The Girl with the Dragon Tattoo by Stieg Larsson,3,10.99,32.97,North America,Credit Card
+10215,8/2/2024 0:00,Beauty Products,,2,29,58,Europe,PayPal
+10216,8/3/2024 0:00,Sports,,1,349.99,349.99,Asia,Credit Card
+10217,8/4/2024 0:00,Electronics,,1,2399,2399,North America,Credit Card
+10218,8/5/2024 0:00,Home Appliances,,1,449.99,449.99,Europe,PayPal
+10219,8/6/2024 0:00,Clothing,,3,49.99,149.97,Asia,Debit Card
+10220,8/7/2024 0:00,Books,,2,12.99,25.98,North America,
+10221,8/8/2024 0:00,Beauty Products,,1,27,27,Europe,PayPal
+10222,8/9/2024 0:00,Sports,,1,599.99,599.99,Asia,Credit Card
+10223,8/10/2024 0:00,Electronics,,4,49.99,199.96,North America,Credit Card
+10224,8/11/2024 0:00,Home Appliances,Philips Sonicare DiamondClean Toothbrush,2,229.99,459.98,Europe,PayPal
+10225,8/12/2024 0:00,Clothing,,2,44.99,89.98,Asia,Debit Card
+10226,8/13/2024 0:00,Books,,3,26.99,80.97,North America,Credit Card
+10227,8/14/2024 0:00,Beauty Products,,1,6.7,6.7,Europe,PayPal
+10228,8/15/2024 0:00,Sports,,2,149.95,299.9,Asia,Credit Card
+10229,8/16/2024 0:00,Electronics,Google Nest Wifi Router,1,169,169,North America,Credit Card
+10230,8/17/2024 0:00,Home Appliances,,1,599,599,Europe,PayPal
+10231,8/18/2024 0:00,Clothing,,4,64.99,259.96,Asia,Debit Card
+10232,8/19/2024 0:00,Books,,2,9.99,19.98,North America,Credit Card
+10233,8/20/2024 0:00,Beauty Products,Fresh Sugar Lip Treatment,1,24,24,Europe,PayPal
+10234,8/21/2024 0:00,Sports,,,32.95,98.85,Asia,Credit Card
+10235,8/22/2024 0:00,Electronics,,1,299,299,North America,Credit Card
+10236,8/23/2024 0:00,Home Appliances,Nespresso Vertuo Next Coffee and Espresso Maker,1,159.99,159.99,Europe,PayPal
+10237,8/24/2024 0:00,Clothing,,3,90,270,Asia,Debit Card
+10238,8/25/2024 0:00,Books,,3,10.99,32.97,North America,
+10239,8/26/2024 0:00,Beauty Products,Sunday Riley Luna Sleeping Night Oil,1,55,55,Europe,PayPal
+10240,8/27/2024 0:00,Sports,,,29.99,59.98,Asia,Credit Card
+10241,11/23/2024,Clothing,,1,870.33,870.33,North America,
+10242,10/6/2024,Sports,,97,420.63,40801.11,Europe,
+10243,1/14/2024,Electronics,,1,129.06,129.06,North America,Credit Card
+10244,3/21/2025,Books,,1,1,1,Europe,
+10245,1/25/2025,Home Appliances,,,1,1,Asia,Credit Card
+10246,5/15/2024,Books,,1,646.59,646.59,Europe,Credit Card
+10247,11/17/2024,Electronics,,2,613.95,1227.9,,Bank Transfer
+10248,5/28/2024,Beauty Products,,1,111.13,111.13,Asia,Credit Card
+10249,7/5/2024,Electronics,Microsoft Surface Laptop 4,1,352.22,352.22,Asia,Credit Card
+10250,11/27/2024,Books,Where the Crawdads Sing by Delia Owens,2,1,2,Europe,Credit Card
+10251,5/18/2024,Sports,,2,910.9,1821.8,Asia,Credit Card
+10252,2/16/2025,Home Appliances,,340,615.06,209120.4,North America,Credit Card
+10253,12/1/2024,Clothing,,3,1,3,Europe,Credit Card
+10254,10/2/2024,Books,,2,1,2,North America,Cryptocurrency
+10255,3/11/2024,Beauty Products,,2,617.64,1134.44,,Mobile Payment
+10256,3/22/2024,Electronics,Electronics Basic 710,245,1,245,Asia,PayPal
+10257,5/8/2024,Home Appliances,,1,160.07,160.07,North America,PayPal
+10258,5/16/2024,Books,,1,861.05,861.05,Asia,PayPal
+10259,1/3/2025,Electronics,,3,812.65,2437.95,,Mobile Payment
+10260,3/6/2025,Clothing,,3,1,3,North America,Credit Card
+10261,2/2/2025,Electronics,,3,4716.39,14149.17,Europe,Credit Card
+10262,3/25/2025,Books,,499,865.95,432109.05,Asia,
+10263,2/21/2025,Clothing,,1,508.5,508.5,North America,Credit Card
+10264,10/8/2024,Electronics,,3,495.77,1487.31,Asia,Credit Card
+10265,10/3/2024,Sports,,3,359.07,1077.21,Asia,Credit Card
+10266,8/12/2024,Electronics,,1,776.96,746.7,Asia,Debit Card
+10267,10/28/2024,Electronics,,1,515.71,515.71,Europe,Credit Card
+10268,6/18/2024,Home Appliances,Instant Pot Duo Crisp,1,1,1,Asia,Credit Card
+10269,1/5/2025,Books,,1,673.84,673.84,,
+10270,2/19/2024,Home Appliances,,1,225.01,225.01,North America,Credit Card
+10271,12/10/2024,Books,,422,1,422,North America,Debit Card
+10272,5/7/2024,Home Appliances,,,221.49,442.98,Asia,Credit Card
+10273,5/7/2024,Beauty Products,,1,826.07,826.07,Asia,
+10274,10/3/2024,Beauty Products,,4,1,4,Europe,PayPal
+10275,4/19/2024,Electronics,,,751.04,751.04,North America,Credit Card
+10276,2/5/2025,Books,,1,100.36,100.36,Europe,Credit Card
+10277,12/4/2024,Beauty Products,,2,167.28,334.56,North America,Credit Card
+10278,10/4/2024,Electronics,,,703.96,245682.04,Asia,
+10279,9/28/2024,Books,,145,930.91,134981.95,North America,Credit Card
+10280,7/25/2024,Sports,,1,395.28,395.28,Europe,Credit Card
+10281,8/2/2024,Beauty Products,Tarte Shape Tape Concealer,3,501.64,1504.92,North America,
+10282,1/1/2025,Sports,,3,409.53,1228.59,North America,Credit Card
+10283,6/10/2024,Books,,1,521.56,521.56,North America,PayPal
+10284,2/7/2024,Home Appliances,,3,733.95,2201.85,Europe,
+10285,3/26/2025,Books,,,1,1,Europe,
+10286,11/9/2024,Home Appliances,,2,203.28,406.56,Asia,PayPal
+10287,3/25/2025,Beauty Products,,2,1410.68,2821.36,Europe,Credit Card
+10288,5/24/2024,Beauty Products,,2,1,2,Asia,Gift Card
+10289,9/7/2024,Sports,,266,666.78,177363.48,Europe,Credit Card
+10290,3/7/2024,Sports,,2,486.91,973.82,Asia,Debit Card
+10291,10/14/2024,Home Appliances,,2,518.01,1036.02,Europe,Debit Card
+10292,7/8/2024,Home Appliances,,2,2458.61,4917.22,Asia,PayPal
+10293,4/22/2025,Books,,1,890.06,890.06,North America,PayPal
+10294,3/28/2025,Sports,,2,1,2,Asia,PayPal
+10295,3/27/2025,Beauty Products,,1,829.89,829.89,North America,
+10296,2/14/2025,Beauty Products,,2,936.08,1872.16,Asia,
+10297,3/15/2025,Beauty Products,,,336.15,2497.46,Europe,
+10298,2/11/2025,Electronics,,2,146.16,292.32,Europe,PayPal
+10299,2/5/2024,Home Appliances,,,58.38,116.76,North America,Debit Card
+10300,10/1/2024,Clothing,,2,216.72,433.44,Asia,Credit Card
+10301,5/15/2024,Books,,1,1096.88,1096.88,Europe,PayPal
+10302,9/18/2024,Sports,,4,2744.23,10976.92,Europe,Credit Card
+10303,9/23/2024,Beauty Products,Beauty Products Lite 472,1,1,1,North America,Credit Card
+10304,11/15/2024,Sports,,2,655.47,1310.94,Europe,Credit Card
+10305,7/28/2024,Electronics,,2,1,2,Asia,PayPal
+10306,7/13/2024,Home Appliances,Eufy RoboVac 11S,4,679.78,2719.12,Europe,
+10307,1/1/2024,Clothing,,1,993.04,993.04,North America,
+10308,8/26/2024,Clothing,Levi's Trucker Jacket,1,1,1,Europe,PayPal
+10309,1/11/2025,Books,,1,1,1,Europe,PayPal
+10310,2/17/2024,Sports,,1,523.11,523.11,North America,
+10311,8/31/2024,Electronics,,2,632.52,1265.04,Europe,Credit Card
+10312,1/2/2025,Books,,2,986.94,1973.88,Asia,Credit Card
+10313,4/2/2025,Sports,,1,74.78,74.78,North America,Debit Card
+10314,9/22/2024,Electronics,,2,101.49,202.98,North America,PayPal
+10315,2/14/2025,Books,,3,226.38,679.14,Asia,
+10316,4/1/2025,Home Appliances,,2,557.32,1114.64,Asia,
+10317,3/22/2024,Clothing,,2,1,2,Asia,Debit Card
+10318,1/27/2025,Clothing,,3,543.59,1630.77,North America,Debit Card
+10319,4/30/2024,Books,,,1,3,Asia,
+10320,7/15/2024,Electronics,,258,762.2,196647.6,Asia,Credit Card
+10321,2/1/2024,Home Appliances,,4,693.85,2775.4,Europe,Credit Card
+10322,1/11/2024,Home Appliances,,,733.74,168760.2,Asia,
+10323,4/1/2025,Electronics,,,54.35,187,Europe,Credit Card
+10324,4/22/2024,Sports,,2,2344.52,4689.04,Europe,
+10325,12/13/2024,Electronics,,,937.73,1875.46,North America,Credit Card
+10326,1/14/2024,Beauty Products,,1,336.05,336.05,North America,Cryptocurrency
+10327,1/26/2024,Clothing,,,1,3,Asia,Cryptocurrency
+10328,7/13/2024,Beauty Products,,1,769.71,769.71,Asia,PayPal
+10329,6/28/2024,Clothing,,1,59.28,59.28,Europe,Credit Card
+10330,5/6/2024,Electronics,MacBook Pro 16-inch###,2,493.18,986.36,Asia,
+10331,2/28/2024,Sports,,1,1,1,Asia,Credit Card
+10332,11/6/2024,Sports,,1,379.91,379.91,North America,PayPal
+10333,10/23/2024,Sports,,2,1260.99,2521.98,Asia,Credit Card
+10334,1/1/2025,Books,,2,445.53,891.06,North America,Credit Card
+10335,11/3/2024,Sports,Sports Pro 455,2,823.77,1647.54,Asia,Credit Card
+10336,1/7/2024,Books,,1,1,1,Europe,Credit Card
+10337,8/23/2024,Books,,1,226.58,226.58,Asia,PayPal
+10338,2/17/2025,Electronics,,1,1141.11,1141.11,Asia,Debit Card
+10339,3/12/2025,Electronics,,,233.39,466.78,,Cryptocurrency
+10340,10/18/2024,Electronics,,1,936.01,936.01,Asia,Debit Card
+10341,9/6/2024,Sports,,1,1,1,North America,Credit Card
+10342,5/21/2024,Sports,,2,303.85,607.7,Asia,Gift Card
+10343,9/7/2024,Sports,,1,1,1,North America,Gift Card
+10344,2/9/2025,Books,,3,1,3,Europe,
+10345,10/24/2024,Electronics,,2,1233.84,2467.68,Asia,PayPal
+10346,6/18/2024,Sports,Oakley Holbrook Sunglasses,4,596.29,2385.16,Asia,Credit Card
+10347,3/2/2024,Electronics,,4,994.06,3976.24,North America,Credit Card
+10348,1/24/2025,Electronics,Google Nest Hub Max,3,809.13,2427.39,Europe,Credit Card
+10349,7/3/2024,Sports,,1,527.26,527.26,Europe,
+10350,5/29/2024,Beauty Products,Shiseido Ultimate Sun Protector,4,506.13,2024.52,Asia,Gift Card
+10351,5/25/2024,Electronics,,1,348.27,348.27,North America,Credit Card
+10352,3/17/2025,Sports,,3,1,3,Europe,Credit Card
+10353,1/28/2024,Electronics,,2,1,2,Europe,Debit Card
+10354,10/12/2024,Clothing,,2,1,2,North America,Credit Card
+10355,3/16/2025,Home Appliances,,,1,2,North America,Credit Card
+10356,1/13/2025,Clothing,,1,619.93,619.93,North America,Credit Card
+10357,10/9/2024,Books,,2,89.01,178.02,Asia,PayPal
+10358,1/17/2024,Electronics,Google Nest Hub Max,2,259.7,519.4,Asia,
+10359,4/18/2025,Home Appliances,,1,1,1,Europe,PayPal
+10360,10/5/2024,Clothing,Calvin Klein Boxer Briefs,4,582.96,2331.84,North America,Credit Card
+10361,6/6/2024,Beauty Products,,1,248.69,248.69,Europe,Credit Card
+10362,6/4/2024,Clothing,,3,519.93,1559.79,Europe,
+10363,8/9/2024,Home Appliances,,395,156.13,61671.35,North America,Credit Card
+10364,1/11/2024,Home Appliances,,437,215.87,94335.19,North America,Debit Card
+10365,8/14/2024,Books,,3,351.62,1054.86,Europe,
+10366,8/28/2024,Books,,,302.35,1209.4,Europe,
+10367,7/29/2024,Home Appliances,,4,1,4,Europe,Credit Card
+10368,1/19/2024,Sports,,,525.44,525.44,North America,Credit Card
+10369,3/18/2025,Home Appliances,,,58.84,58.84,North America,Credit Card
+10370,4/6/2024,Sports,,,1,2,Europe,Cryptocurrency
+10371,4/14/2024,Electronics,,2,318.13,636.26,Asia,Debit Card
+10372,3/3/2024,Home Appliances,,,1,2,Asia,PayPal
+10373,1/8/2024,Books,1984 by George Orwell,3.0x,973.53,2920.59,North America,Credit Card
+10374,11/27/2024,Clothing,Clothing Advanced 833,1,1,1,North America,PayPal
+10375,9/4/2024,Home Appliances,,2,1,2,Europe,PayPal
+10376,9/17/2024,Electronics,,445,469.57,208958.65,Europe,
+10377,4/23/2025,Electronics,,,96.08,40449.68,Asia,PayPal
+10378,12/3/2024,Books,,3,1,3,Europe,Debit Card
+10379,1/25/2025,Beauty Products,,1,309.29,309.29,North America,Credit Card
+10380,5/2/2024,Beauty Products,,2,737.9,1475.8,North America,Debit Card
+10381,8/30/2024,Home Appliances,,2,99.63,199.26,Asia,PayPal
+10382,3/18/2024,Books,,1,445.02,445.02,Europe,Debit Card
+10383,2/21/2024,Clothing,,1,1,1,North America,PayPal
+10384,7/28/2024,Books,,1,211.32,211.32,Europe,PayPal
+10385,12/20/2024,Sports,Peloton Bike,1,1,1,Asia,PayPal
+10386,7/13/2024,Clothing,,2,334.48,668.96,Europe,PayPal
+10387,12/16/2024,Sports,,100,105.33,10533,Asia,
+10388,2/21/2024,Home Appliances,,3,4184.57,12553.71,North America,PayPal
+10389,5/30/2024,Beauty Products,Neutrogena Hydro Boost Water Gel,1,87.15,87.15,Asia,Credit Card
+10390,2/9/2025,Sports,Nike Metcon 6,495,639.75,316676.25,North America,Credit Card
+10391,9/11/2024,Beauty Products,,1,1,1,Asia,PayPal
+10392,1/5/2024,Books,,2,876.9,1753.8,North America,Credit Card
+10393,6/25/2024,Home Appliances,,2,595.23,1190.46,Europe,PayPal
+10394,6/3/2024,Sports,,,1,2,Europe,PayPal
+10395,7/2/2024,Electronics,,474,1119.94,530851.56,Asia,PayPal
+10396,10/16/2024,Electronics,,,1162.82,2325.64,Europe,PayPal
+10397,2/1/2025,Sports,,3,244.93,734.79,North America,Cryptocurrency
+10398,1/4/2025,Sports,,371,619.1,229686.1,North America,Debit Card
+10399,8/13/2024,Sports,,5,508.68,2543.4,Europe,Credit Card
+10400,1/17/2025,Clothing,,1,1,1,Europe,Debit Card
+10401,9/28/2024,Clothing,H&M Slim Fit Jeans,3,1,3,Europe,Credit Card
+10402,9/3/2024,Clothing,,1,72,81.57,Europe,Credit Card
+10403,2/8/2024,Sports,On Running Cloud Shoes,3,1,2.83,Europe,Credit Card
+10404,3/9/2025,Books,,1,3146.29,3146.29,,Cryptocurrency
+10405,8/20/2024,Books,The Power of Now by Eckhart Tolle,1,1,1,Asia,
+10406,2/25/2024,Sports,,337,347.79,117205.23,North America,Credit Card
+10407,11/27/2024,Electronics,,5,1,5,North America,Mobile Payment
+10408,3/12/2024,Clothing,,1,943.63,943.63,Europe,PayPal
+10409,3/10/2024,Electronics,,,479.07,1437.21,Asia,
+10410,8/2/2024,Home Appliances,,1,1,1,North America,Credit Card
+10411,11/11/2024,Beauty Products,,,988.9,236347.1,Europe,
+10412,4/30/2024,Home Appliances,,,1,3,North America,Credit Card
+10413,2/1/2024,Beauty Products,,2,1,2,North America,Credit Card
+10414,2/16/2024,Home Appliances,,3,427.18,1281.54,Asia,Credit Card
+10415,3/5/2024,Beauty Products,,1,1,1,Asia,Credit Card
+10416,2/20/2025,Electronics,,2,929.2,1858.4,Europe,Debit Card
+10417,3/15/2024,Beauty Products,,1,507.43,507.43,Europe,
+10418,2/8/2025,Clothing,,1,449.37,449.37,Europe,Credit Card
+10419,9/26/2024,Books,,1,1,1,Asia,PayPal
+10420,2/25/2024,Electronics,,2,4132.91,8265.82,Asia,Debit Card
+10421,3/19/2025,Clothing,,,739.49,2218.47,North America,Credit Card
+10422,7/24/2024,Books,Harry Potter and the Sorcerer's Stone,,540.4,540.4,North America,
+10423,11/7/2024,Sports,,3,1,3,North America,Credit Card
+10424,6/15/2024,Sports,,2,367.78,735.56,North America,PayPal
+10425,2/20/2024,Books,,1,1,1,North America,
+10426,3/19/2025,Sports,,2,393.63,787.26,Europe,
+10427,7/23/2024,Home Appliances,,3,168.5,505.5,Europe,PayPal
+10428,3/19/2024,Electronics,,475,700.98,332965.5,North America,PayPal
+10429,1/16/2025,Electronics,,337,1,337,Europe,Credit Card
+10430,7/29/2024,Clothing,,,1,2,Europe,PayPal
+10431,11/3/2024,Books,,3,111.85,335.55,North America,Credit Card
+10432,4/24/2024,Home Appliances,,2,1,2,Europe,PayPal
+10433,4/25/2024,Clothing,,2,37.88,75.76,North America,PayPal
+10434,4/2/2024,Clothing,,2,1,2,North America,Debit Card
+10435,3/14/2024,Beauty Products,GlamGlow Supermud Clearing Treatment,,873.06,374542.74,Asia,Credit Card
+10436,4/20/2024,Books,,4,1,4,Asia,
+10437,2/1/2025,Sports,,,540.79,540.79,Europe,Credit Card
+10438,8/14/2024,Books,The Road by Cormac McCarthy,2,333.13,666.26,Asia,
+10439,9/19/2024,Beauty Products,,1,508.21,508.21,Europe,Credit Card
+10440,9/26/2024,Sports,,,602.21,1204.42,North America,PayPal
+10441,4/18/2024,Sports,,2,3988.06,7976.12,North America,
+10442,3/30/2024,Home Appliances,,2,529.06,1058.12,Asia,Debit Card
+10443,2/16/2025,Home Appliances,,1,1074.97,1074.97,North America,Credit Card
+10444,4/16/2025,Beauty Products,,2,775.68,1551.36,North America,Credit Card
+10445,8/1/2024,Books,,216,1,216,Asia,Credit Card
+10446,8/23/2024,Books,Books Standard 190,2,452.97,905.94,North America,Credit Card
+10447,7/24/2024,Sports,Garmin Forerunner 245,3,303.87,911.61,Asia,Cryptocurrency
+10448,2/2/2025,Clothing,,1,794.36,794.36,Europe,PayPal
+10449,2/1/2025,Sports,Hyperice Hypervolt Massager,1,1,1,Asia,Credit Card
+10450,11/4/2024,Electronics,Bose QuietComfort 35 Headphones,1,1,1,North America,Credit Card
+10451,1/21/2025,Electronics,,1,1,1,Asia,Credit Card
+10452,11/21/2024,Sports,,3,191.78,575.34,Asia,
+10453,8/28/2024,Books,,3,767.1,2301.3,Europe,
+10454,2/7/2024,Home Appliances,,238,932.13,221846.94,North America,Credit Card
+10455,3/13/2025,Beauty Products,,1,164.2,164.2,Asia,Debit Card
+10456,2/9/2025,Sports,,4,38.57,154.28,Asia,Credit Card
+10457,11/5/2024,Beauty Products,Anastasia Beverly Hills Brow Wiz,1,1,1,Europe,PayPal
+10458,3/4/2025,Books,,,1,1,Asia,Gift Card
+10459,8/12/2024,Sports,,2,749.03,1498.06,Europe,
+10460,6/22/2024,Clothing,,1,547.25,547.25,Asia,PayPal
+10461,12/13/2024,Electronics,Bose SoundLink Revolve+ Speaker,1,652.96,652.96,North America,Debit Card
+10462,3/23/2025,Clothing,,1,1274.3,1274.3,Asia,Credit Card
+10463,12/1/2024,Beauty Products,,,779.46,779.46,Europe,Credit Card
+10464,11/25/2024,Sports,,,759.8,1519.6,Asia,
+10465,4/12/2025,Beauty Products,,2,2235.46,4470.92,Asia,PayPal
+10466,4/19/2024,Beauty Products,Glossier Cloud Paint,3,164.63,502.33,Europe,PayPal
+10467,5/31/2024,Electronics,,2,534.21,1068.42,Europe,Credit Card
+10468,1/20/2024,Home Appliances,,,318.46,636.92,Europe,
+10469,12/20/2024,Books,,2,713,1426,North America,PayPal
+10470,5/1/2024,Books,,2,29.99,59.98,Europe,Debit Card
+10471,6/7/2024,Electronics,Electronics Advanced 955,2,429.98,859.96,North America,Credit Card
+10472,8/13/2024,Beauty Products,,,293.5,587,Europe,PayPal
+10473,3/23/2024,Electronics,,1,512.24,512.24,North America,Credit Card
+10474,10/10/2024,Home Appliances,,132,10.59,1397.88,Europe,Mobile Payment
+10475,3/16/2024,Beauty Products,,1,61.83,61.83,Asia,Credit Card
+10476,7/31/2024,Clothing,Adidas Ultraboost Running Shoes,,612.27,1224.54,Asia,Credit Card
+10477,6/12/2024,Electronics,,1,4669.58,4669.58,Asia,PayPal
+10478,8/29/2024,Home Appliances,,3,193.8,581.4,Europe,
+10479,4/8/2025,Clothing,,3,100.41,301.23,North America,Credit Card
+10480,11/7/2024,Electronics,,1,619.22,619.22,Asia,PayPal
+10481,11/23/2024,Sports,Sports Advanced 164,4,399.48,1597.92,Asia,Mobile Payment
+10482,1/9/2024,Sports,,1,559.69,559.69,North America,Credit Card
+10483,11/10/2024,Sports,,3,987.33,2961.99,Europe,Debit Card
+10484,2/4/2024,Clothing,,,2547.53,2547.53,North America,PayPal
+10485,7/10/2024,Electronics,,4,1,4,Asia,Credit Card
+10486,12/2/2024,Clothing,,,773.01,1546.02,North America,Credit Card
+10487,2/20/2025,Clothing,,5,1,5,North America,PayPal
+10488,3/10/2024,Sports,Oakley Holbrook Sunglasses,,1797.88,275075.64,Asia,
+10489,1/22/2024,Clothing,,1,15.93,15.93,Asia,Credit Card
+10490,5/9/2024,Clothing,,4,827.87,3311.48,Europe,Credit Card
+10491,5/19/2024,Home Appliances,,,1,3,Europe,Credit Card
+10492,7/16/2024,Electronics,,,1,2,Europe,PayPal
+10493,9/22/2024,Beauty Products,,1,24.48,24.48,North America,PayPal
+10494,2/25/2025,Beauty Products,,1,262,262,Asia,Debit Card
+10495,6/5/2024,Beauty Products,,1,1,1,Asia,Credit Card
+10496,1/7/2025,Sports,,3,849.43,2548.29,Europe,PayPal
+10497,1/30/2024,Books,,2,1,2,North America,Credit Card
+10498,1/16/2024,Electronics,,2,618,1236,Asia,
+10499,11/26/2024,Sports,,1,1613.75,1613.75,Asia,PayPal
+10500,8/18/2024,Clothing,,1,931,931,,Cryptocurrency
+10501,7/22/2024,Sports,,2,1,2,Asia,Credit Card
+10502,9/12/2024,Electronics,Apple MacBook Pro 16-inch,2,244.06,454,Asia,PayPal
+10503,4/19/2024,Beauty Products,,,926.41,926.41,Europe,Credit Card
+10504,8/19/2024,Clothing,,2,638.79,1277.58,Europe,
+10505,6/12/2024,Clothing,,,1,1,Europe,Debit Card
+10506,3/21/2024,Home Appliances,,4,829.07,3316.28,Asia,Credit Card
+10507,2/9/2025,Beauty Products,,333,375.45,125024.85,Europe,Credit Card
+10508,10/9/2024,Sports,Peloton Bike,253,158.5,40100.5,Europe,PayPal
+10509,9/26/2024,Clothing,,1,326.21,326.21,,Bank Transfer
+10510,11/24/2024,Home Appliances,,1,734.91,734.91,Asia,
+10511,2/3/2025,Sports,Fitbit Luxe,1,166.7,166.7,North America,Credit Card
+10512,4/11/2025,Books,,3,1,3,Europe,Credit Card
+10513,12/29/2024,Books,The Great Alone by Kristin Hannah,1,294.52,294.52,North America,Credit Card
+10514,11/21/2024,Beauty Products,,,820.49,820.49,Asia,Debit Card
+10515,10/30/2024,Books,,4,1,4,North America,Credit Card
+10516,3/7/2025,Electronics,,2,667.07,1334.14,North America,Credit Card
+10517,1/29/2025,Clothing,,2,107.52,215.04,Europe,Credit Card
+10518,9/11/2024,Electronics,Electronics Premium 757,,748.11,1496.22,Europe,PayPal
+10519,12/16/2024,Clothing,,80,337.91,27032.8,Asia,
+10520,8/25/2024,Electronics,Bose QuietComfort 35 II Wireless Headphones,3,1,3,North America,PayPal
+10521,3/16/2025,Sports,,2,4.23,8.46,Europe,Debit Card
+10522,6/12/2024,Home Appliances,,3,645.11,1935.33,Asia,PayPal
+10523,7/15/2024,Clothing,,2,602.66,1205.32,Europe,Credit Card
+10524,4/23/2025,Sports,Yeti Roadie 24 Cooler,2,758.44,1516.88,North America,PayPal
+10525,8/27/2024,Clothing,,,1,3,,Cryptocurrency
+10526,8/22/2024,Electronics,,2,327.05,654.1,,Mobile Payment
+10527,3/27/2025,Books,,2,313.3,626.6,Europe,
+10528,3/27/2025,Beauty Products,,2,492.95,985.9,Asia,Credit Card
+10529,10/18/2024,Beauty Products,,3,288.14,864.42,North America,
+10530,1/26/2025,Clothing,,1,873.87,873.87,Europe,Credit Card
+10531,7/20/2024,Home Appliances,,1,801.23,801.23,Europe,Credit Card
+10532,7/24/2024,Electronics,,415,1059.75,439796.25,Europe,PayPal
+10533,8/21/2024,Clothing,,,214.51,643.53,Europe,Credit Card
+10534,7/20/2024,Clothing,Clothing Premium 707,,1,3,Europe,PayPal
+10535,12/28/2024,Books,,1,$362.93-ERROR,362.93,Asia,Gift Card
+10536,8/1/2024,Electronics,,2,680.51,1361.02,North America,
+10537,2/1/2025,Electronics,,2,273.47,546.94,North America,
+10538,11/18/2024,Home Appliances,,2,1,2,Asia,PayPal
+10539,12/24/2024,Home Appliances,,1,886.8,886.8,North America,
+10540,4/14/2024,Electronics,Sonos Beam Soundbar,,569.04,1707.12,North America,
+10541,4/16/2024,Home Appliances,,,331.85,1327.4,North America,
+10542,4/12/2025,Home Appliances,KitchenAid Stand Mixer,2,473.66,947.32,Asia,PayPal
+10543,11/25/2024,Electronics,,2,414.38,828.76,Europe,Debit Card
+10544,6/1/2024,Sports,,1,1,1,Europe,Credit Card
+10545,9/7/2024,Sports,,1,606.35,606.35,North America,
+10546,5/27/2024,Home Appliances,KitchenAid Stand Mixer,,772.23,772.23,Asia,Credit Card
+10547,1/30/2025,Books,,,1,5,North America,
+10548,8/14/2024,Sports,,1,227.92,227.92,North America,PayPal
+10549,10/14/2024,Books,,1,185.9,185.9,Europe,PayPal
+10550,1/26/2024,Clothing,,,665.15,665.15,Europe,PayPal
+10551,8/29/2024,Beauty Products,Shiseido Ultimate Sun Protector,331,940.31,311242.61,Asia,
+10552,11/30/2024,Electronics,,2,1053.9,2107.8,North America,Credit Card
+10553,5/26/2024,Electronics,,1,49.13,49.13,Europe,Credit Card
+10554,3/11/2025,Books,,2,1,2,Asia,PayPal
+10555,3/4/2025,Books,,1,1,1,,Cryptocurrency
+10556,5/28/2024,Books,,4,250.87,1003.48,Europe,
+10557,5/25/2024,Books,,1,752.11,752.11,Europe,Credit Card
+10558,5/19/2024,Clothing,,2,1,2,Europe,Debit Card
+10559,1/2/2025,Sports,,3,54.39,163.17,North America,Cryptocurrency
+10560,3/30/2024,Sports,,,834.63,834.63,Europe,Debit Card
+10561,4/4/2024,Books,,1,2534.3,2534.3,Asia,Credit Card
+10562,8/16/2024,Beauty Products,,2,540.49,1080.98,North America,Credit Card
+10563,7/3/2024,Home Appliances,Ninja Professional Blender,3,1,3,Asia,PayPal
+10564,12/17/2024,Home Appliances,,1,1,1,Europe,PayPal
+10565,7/7/2024,Sports,,,391.6,391.6,Asia,Credit Card
+10566,11/6/2024,Sports,,2,318.82,637.64,Europe,Debit Card
+10567,2/26/2025,Sports,,2,527.79,1055.58,North America,Credit Card
+10568,9/26/2024,Clothing,,338,446.61,150954.18,North America,
+10569,4/7/2025,Clothing,,2,262.34,524.68,Asia,
+10570,8/14/2024,Sports,,2,634.86,1269.72,Europe,PayPal
+10571,8/16/2024,Home Appliances,,1,731.19,731.19,North America,Credit Card
+10572,2/17/2025,Electronics,,,378.92,757.84,Asia,
+10573,10/23/2024,Home Appliances,,2,1,2,North America,PayPal
+10574,4/23/2025,Home Appliances,,,820.76,1641.52,Europe,PayPal
+10575,1/8/2025,Electronics,,1,327.69,327.69,Asia,Credit Card
+10576,4/14/2025,Beauty Products,,1,106.5,106.5,Asia,Credit Card
+10577,11/30/2024,Books,,1,989.36,989.36,Europe,PayPal
+10578,3/3/2025,Clothing,Nike Air Force 1,3,1,3,Europe,Credit Card
+10579,8/5/2024,Beauty Products,,,613.73,613.73,North America,Credit Card
+10580,3/24/2025,Clothing,,3,1,3,Europe,Credit Card
+10581,3/28/2025,Electronics,,354,3391.14,1200463.56,North America,
+10582,12/26/2024,Beauty Products,,274,404.65,110874.1,Asia,PayPal
+10583,3/18/2025,Electronics,,1,1239.49,1239.49,Asia,Credit Card
+10584,10/21/2024,Clothing,,1,1,1,Asia,PayPal
+10585,3/24/2025,Clothing,,1,974.26,974.26,Asia,Debit Card
+10586,3/26/2025,Sports,,1,672.21,672.21,Asia,Credit Card
+10587,11/25/2024,Beauty Products,,1,688.23,688.23,Asia,Credit Card
+10588,1/21/2025,Sports,,1,1210.12,1210.12,Europe,
+10589,2/16/2025,Books,,1,1,1,Europe,
+10590,3/9/2024,Beauty Products,,2,1101.04,2202.08,North America,Credit Card
+10591,3/9/2025,Beauty Products,,,1,2,North America,Credit Card
+10592,12/10/2024,Beauty Products,,3,1,3.25,North America,Credit Card
+10593,1/5/2025,Books,,2,1,2,North America,Credit Card
+10594,4/10/2025,Sports,,3,711.42,1918.74,Europe,
+10595,9/2/2024,Home Appliances,,1,357.15,357.15,Asia,PayPal
+10596,7/13/2024,Books,,1,1,1,Asia,PayPal
+10597,8/26/2024,Books,,3,391.2,1173.6,Europe,Credit Card
+10598,6/9/2024,Clothing,,2,776.66,1553.32,Asia,Credit Card
+10599,10/26/2024,Clothing,,1,1,1,Europe,Gift Card
+10600,10/18/2024,Home Appliances,,,117.52,117.52,Asia,PayPal
+10601,2/24/2025,Home Appliances,,2,350.58,701.16,Asia,Debit Card
+10602,3/12/2024,Home Appliances,,1,926.66,926.66,Asia,PayPal
+10603,1/31/2024,Beauty Products,,1.0x,452.36,452.36,,Cryptocurrency
+10604,7/30/2024,Sports,On Running Cloud Shoes,,3022.93,383912.11,North America,Credit Card
+10605,7/10/2024,Electronics,,3,3128.85,9386.55,North America,PayPal
+10606,7/29/2024,Sports,,2,416.3,832.6,Europe,
+10607,9/14/2024,Home Appliances,,4,1014.28,4057.12,Asia,PayPal
+10608,9/25/2024,Beauty Products,,2,176.94,353.88,North America,Credit Card
+10609,2/11/2025,Beauty Products,,,789.52,789.52,North America,PayPal
+10610,12/22/2024,Beauty Products,,1,1,1,Europe,Mobile Payment
+10611,2/17/2024,Books,,2,585.69,1171.38,North America,PayPal
+10612,9/12/2024,Electronics,,1,633,633,Asia,Credit Card
+10613,4/15/2025,Home Appliances,,1,1,1,Asia,Cryptocurrency
+10614,5/18/2024,Clothing,,4,17.49,69.96,Asia,PayPal
+10615,12/2/2024,Clothing,,156,911.06,142125.36,North America,PayPal
+10616,12/30/2024,Clothing,,,1,1,Europe,Credit Card
+10617,7/18/2024,Books,,5,994.24,4971.2,Europe,
+10618,1/5/2025,Books,,273,802.58,219104.34,Asia,
+10619,11/10/2024,Home Appliances,,2,800.01,1600.02,North America,Credit Card
+10620,8/18/2024,Clothing,,3,599.37,1798.11,Asia,
+10621,10/26/2024,Clothing,,1,1,1,Europe,Credit Card
+10622,2/7/2024,Home Appliances,,4,507.3,2029.2,Asia,
+10623,7/18/2024,Books,,207,870.47,180187.29,Asia,
+10624,2/22/2024,Clothing,Puma Suede Classic Sneakers,,29.27,29.27,Europe,PayPal
+10625,2/22/2024,Home Appliances,,3,1,3,North America,Credit Card
+10626,3/18/2025,Beauty Products,,,296.9,296.9,North America,Debit Card
+10627,10/13/2024,Home Appliances,,1,680,598.6,Asia,Credit Card
+10628,5/17/2024,Beauty Products,,1,1,1,North America,Credit Card
+10629,6/2/2024,Beauty Products,,1,1,1,Asia,PayPal
+10630,9/10/2024,Electronics,,1,697.85,697.85,Europe,Credit Card
+10631,3/6/2025,Beauty Products,,2,288.58,577.16,North America,Credit Card
+10632,11/29/2024,Home Appliances,,1,1,1,Asia,Credit Card
+10633,6/9/2024,Home Appliances,,1,909.81,909.81,Asia,
+10634,9/8/2024,Clothing,Clothing Lite 433,1,568.77,568.77,Europe,Debit Card
+10635,2/28/2024,Electronics,,2,392.1,784.2,Europe,Debit Card
+10636,1/14/2024,Electronics,,1,127.39,127.39,,Cryptocurrency
+10637,2/5/2024,Home Appliances,,1,479.92,479.92,Europe,PayPal
+10638,12/3/2024,Sports,,1,783.87,783.87,North America,Credit Card
+10639,9/2/2024,Home Appliances,,2,43.33,86.66,Europe,PayPal
+10640,10/5/2024,Electronics,,2,652.25,1304.5,North America,
+10641,4/13/2025,Books,,2,1,2,Europe,Credit Card
+10642,1/23/2024,Sports,,2,671.87,1343.74,Europe,
+10643,2/24/2024,Books,,1,102.6,102.6,Europe,Debit Card
+10644,12/18/2024,Clothing,,1,1,1,North America,Credit Card
+10645,12/19/2024,Beauty Products,The Ordinary Hyaluronic Acid Serum,1,277.19,286.27,Asia,Debit Card
+10646,4/16/2025,Sports,,1,1,1,Asia,Mobile Payment
+10647,8/21/2024,Electronics,,2,38.58,77.16,Asia,PayPal
+10648,6/12/2024,Clothing,,2,1,2,Asia,Credit Card
+10649,11/27/2024,Beauty Products,,1,322.56,322.56,Asia,PayPal
+10650,10/9/2024,Books,,1,621.05,542.76,Asia,
+10651,11/18/2024,Electronics,,,636.47,1909.41,North America,
+10652,8/18/2024,Sports,,,139.91,22245.69,North America,Debit Card
+10653,2/18/2025,Books,,1,1,1,Europe,
+10654,8/22/2024,Sports,,1,294.08,294.08,Asia,Credit Card
+10655,11/8/2024,Sports,,4,776.99,3107.96,North America,
+10656,2/20/2025,Clothing,Gap High Rise Skinny Jeans,4,699.04,2796.16,Asia,Debit Card
+10657,6/9/2024,Electronics,,,694.23,3471.15,Asia,Credit Card
+10658,11/1/2024,Sports,,2,849.51,1699.02,Asia,Credit Card
+10659,4/15/2025,Clothing,,1,657.29,657.29,Europe,PayPal
+10660,8/18/2024,Beauty Products,,3,1,3,Asia,Debit Card
+10661,7/15/2024,Electronics,,1,111.83,111.83,Europe,Credit Card
+10662,9/7/2024,Beauty Products,,439,612.42,247300.44,Europe,PayPal
+10663,5/27/2024,Clothing,Uniqlo Airism Mesh Boxer Briefs,1,144.87,144.87,Asia,PayPal
+10664,9/18/2024,Electronics,,3,1,3,Asia,Credit Card
+10665,10/4/2024,Home Appliances,,3,63.73,191.19,Asia,Credit Card
+10666,2/22/2024,Books,,,2051.26,4102.52,Asia,PayPal
+10667,3/17/2025,Home Appliances,Home Appliances Advanced 986,,1,3,Asia,Debit Card
+10668,2/19/2025,Beauty Products,Beauty Products Standard 981,2,712.95,1425.9,North America,
+10669,3/12/2024,Beauty Products,,229,1,229,Europe,Credit Card
+10670,3/27/2024,Sports,,2,1,2,Asia,Credit Card
+10671,4/5/2025,Clothing,,3,93.84,281.52,Asia,Credit Card
+10672,1/31/2024,Sports,Sports Plus 818,2,600.95,1201.9,North America,Bank Transfer
+10673,2/28/2025,Beauty Products,,2,618.03,1236.06,North America,Debit Card
+10674,7/31/2024,Electronics,Bose QuietComfort 35 Headphones,,757.81,757.81,Asia,
+10675,5/22/2024,Electronics,,1,227.36,227.36,Europe,Credit Card
+10676,3/20/2025,Home Appliances,Home Appliances Max 848,3,971.01,2913.03,Asia,Credit Card
+10677,3/11/2025,Electronics,Canon EOS Rebel T7i DSLR Camera,,75.74,227.22,North America,PayPal
+10678,9/10/2024,Sports,,2,$782.64-ERROR,1565.28,North America,
+10679,9/5/2024,Books,,451,964.72,435088.72,North America,Credit Card
+10680,3/21/2024,Sports,,3,498.87,1496.61,Asia,PayPal
+10681,4/10/2025,Books,,1,1,1,Europe,Mobile Payment
+10682,12/1/2024,Books,1984 by George Orwell,1,480.13,480.13,Europe,PayPal
+10683,7/21/2024,Books,,1,606.71,606.71,Europe,Credit Card
+10684,2/9/2024,Clothing,,,671.79,2015.37,Europe,PayPal
+10685,3/2/2024,Sports,Sports Basic 810,4,546.13,2184.52,Europe,PayPal
+10686,1/9/2025,Electronics,,1,1,1,Europe,Credit Card
+10687,2/20/2025,Electronics,,1,1,1,North America,PayPal
+10688,1/5/2024,Home Appliances,,2,1,2,North America,Credit Card
+10689,3/18/2024,Home Appliances,Home Appliances Advanced 980,3,561.58,1684.74,Europe,
+10690,1/8/2025,Home Appliances,,1,167.63,167.63,North America,PayPal
+10691,2/13/2024,Electronics,,3,399.06,1197.18,Asia,PayPal
+10692,12/19/2024,Beauty Products,,1,1,1,Europe,Credit Card
+10693,7/19/2024,Sports,,1,615.22,615.22,North America,Debit Card
+10694,7/16/2024,Sports,,4,76.23,304.92,North America,Credit Card
+10695,1/7/2024,Books,,2,1,2,Europe,
+10696,10/6/2024,Clothing,Levi's 511 Slim Fit Jeans,2,533.77,1067.54,North America,Credit Card
+10697,5/14/2024,Beauty Products,,2,164.12,328.24,Asia,PayPal
+10698,12/30/2024,Clothing,Under Armour Tech 2.0 T-Shirt,2,197.21,394.42,Europe,Debit Card
+10699,10/2/2024,Books,,,234.77,21129.3,North America,Debit Card
+10700,2/17/2025,Electronics,,3,1,3,North America,Credit Card
+10701,12/14/2024,Home Appliances,,2,1386.5,2773,North America,Credit Card
+10702,1/30/2024,Books,,1,833.04,833.04,Europe,PayPal
+10703,12/2/2024,Books,,2,434.06,868.12,Europe,PayPal
+10704,6/26/2024,Home Appliances,Vitamix Explorian Blender,3,1,3,Europe,Debit Card
+10705,5/17/2024,Beauty Products,,1,1,1,Europe,Credit Card
+10706,9/25/2024,Books,,3,929.68,2789.04,Europe,
+10707,3/26/2024,Clothing,,3,1,3,North America,PayPal
+10708,2/29/2024,Books,,489,1,489,Europe,Credit Card
+10709,8/29/2024,Clothing,Calvin Klein Boxer Briefs,3,901.56,2704.68,Europe,
+10710,12/31/2024,Home Appliances,,,225.06,225.06,Asia,Credit Card
+10711,5/18/2024,Clothing,,2,191.48,382.96,Asia,Credit Card
+10712,2/15/2025,Electronics,,1,316.65,316.65,North America,Credit Card
+10713,5/24/2024,Beauty Products,,283,1802.68,510158.44,Europe,Credit Card
+10714,10/15/2024,Sports,Sports Lite 575,1,582.98,582.98,Europe,Debit Card
+10715,2/1/2025,Sports,,1,705.02,705.02,North America,Gift Card
+10716,4/29/2024,Clothing,,1,3629.22,3629.22,Europe,Credit Card
+10717,3/10/2025,Books,Books Premium 206,1,746.36,746.36,Asia,Credit Card
+10718,1/31/2024,Home Appliances,,2,1925.89,3851.78,North America,Credit Card
+10719,3/8/2025,Electronics,,1,1,1,Asia,PayPal
+10720,9/15/2024,Clothing,,340,1,340,Europe,PayPal
+10721,3/7/2024,Clothing,,2,314.46,628.92,Europe,
+10722,3/1/2025,Home Appliances,,3,36.57,109.71,Europe,PayPal
+10723,2/3/2025,Home Appliances,,2,350.58,701.16,Asia,Credit Card
+10724,3/2/2024,Beauty Products,,4,351.97,1407.88,North America,
+10725,2/16/2024,Sports,,1,917.96,917.96,North America,
+10726,6/16/2024,Sports,,3,649.42,1948.26,Europe,Credit Card
+10727,2/23/2025,Home Appliances,,2,511.15,1022.3,Europe,
+10728,2/18/2024,Clothing,,,642.64,642.64,Asia,Credit Card
+10729,4/23/2024,Beauty Products,,2,414.49,828.98,Asia,
+10730,10/25/2024,Electronics,Bose QuietComfort 35 Headphones,83,995.29,82609.07,Asia,Credit Card
+10731,2/18/2025,Sports,,1,962.07,962.07,Europe,PayPal
+10732,8/9/2024,Sports,Sports Basic 608,399,714.65,285145.35,North America,
+10733,4/10/2025,Beauty Products,,3,709.28,2127.84,North America,Credit Card
+10734,11/11/2024,Clothing,Old Navy Relaxed-Fit T-Shirt,1,559.47,559.47,North America,Gift Card
+10735,2/14/2024,Electronics,,1,722.46,722.46,North America,PayPal
+10736,5/7/2024,Sports,Bose SoundLink Color Bluetooth Speaker II,1.0x,469.16,469.16,Asia,PayPal
+10737,7/2/2024,Books,,2,264.02,528.04,Europe,Credit Card
+10738,5/18/2024,Clothing,Forever 21 Graphic Tee,,4242.76,4242.76,Europe,Credit Card
+10739,5/23/2024,Clothing,,,234.98,234.98,Asia,Credit Card
+10740,3/22/2024,Sports,Garmin Fenix 6X Pro,1,1,1,North America,PayPal
+10741,1/29/2024,Beauty Products,,2,159.43,318.86,North America,Credit Card
+10742,3/5/2025,Home Appliances,,,1,1.92,Asia,Debit Card
+10743,7/2/2024,Clothing,,1,69.56,69.56,Europe,Credit Card
+10744,10/15/2024,Books,,2,616.31,1232.62,Asia,PayPal
+10745,4/22/2024,Clothing,,364,858.47,312483.08,Europe,Credit Card
+10746,4/15/2025,Sports,,350,555.46,194411,Europe,Credit Card
+10747,9/26/2024,Books,Books Max 482,1,152.12,152.12,Asia,Credit Card
+10748,6/21/2024,Beauty Products,,,453.47,906.94,Europe,PayPal
+10749,11/23/2024,Electronics,,1,736.77,736.77,Europe,Credit Card
+10750,11/10/2024,Electronics,,1,420.02,420.02,Asia,Credit Card
+10751,12/18/2024,Electronics,,1,361.2,361.2,North America,PayPal
+10752,7/19/2024,Electronics,Electronics Pro 286,3,1,3,North America,Credit Card
+10753,4/23/2024,Clothing,,3,1,3,North America,Debit Card
+10754,5/1/2024,Sports,,3,854.48,2563.44,,Bank Transfer
+10755,11/23/2024,Electronics,,157,628.33,98647.81,Asia,PayPal
+10756,2/25/2024,Clothing,,1,800.11,800.11,North America,Credit Card
+10757,7/30/2024,Beauty Products,,3,318.64,955.92,Asia,Gift Card
+10758,2/7/2025,Beauty Products,,2,510.04,1020.08,North America,Credit Card
+10759,5/13/2024,Beauty Products,Beauty Products Max 450,1,296.42,296.42,Europe,Gift Card
+10760,10/7/2024,Books,,,1,0.86,North America,
+10761,1/16/2024,Clothing,Hanes ComfortSoft T-Shirt,3,665.55,1996.65,Asia,
+10762,4/7/2024,Books,,,517.16,517.16,North America,
+10763,5/24/2024,Books,Harry Potter and the Sorcerer's Stone,342,38.38,13125.96,North America,Credit Card
+10764,1/28/2024,Books,The Hunger Games by Suzanne Collins,471,1,471,Europe,Credit Card
+10765,4/12/2024,Beauty Products,,3,921.88,2765.64,North America,Debit Card
+10766,6/6/2024,Home Appliances,,1,166.48,166.48,North America,PayPal
+10767,7/17/2024,Home Appliances,Cuisinart Coffee Center,1,1,1,North America,Credit Card
+10768,8/26/2024,Clothing,,1,107.08,107.08,Europe,PayPal
+10769,2/19/2024,Electronics,,2,336.69,673.38,Europe,PayPal
+10770,4/26/2024,Home Appliances,,3,544.82,1634.46,Europe,Bank Transfer
+10771,3/19/2025,Electronics,Electronics Lite 587,1,437.15,437.15,North America,Credit Card
+10772,1/18/2024,Home Appliances,Instant Pot Duo Nova,2,901.62,1803.24,Europe,
+10773,3/2/2024,Electronics,,3,1,2.79,Asia,Debit Card
+10774,4/8/2024,Electronics,Samsung Odyssey G7 Gaming Monitor,399,429.03,171182.97,Asia,
+10775,11/17/2024,Clothing,,2,19.13,38.26,North America,Credit Card
+10776,2/4/2024,Clothing,,1,113.6,113.6,North America,Gift Card
+10777,8/22/2024,Sports,,4,514.33,2057.32,North America,Credit Card
+10778,2/27/2024,Home Appliances,,2,75.27,150.54,Europe,Mobile Payment
+10779,2/21/2024,Books,,1,210.79,210.79,Europe,Credit Card
+10780,7/29/2024,Beauty Products,,1,1,1,Asia,Credit Card
+10781,7/25/2024,Clothing,,1,330.86,330.86,North America,Credit Card
+10782,3/26/2025,Electronics,,,620.82,181900.26,Europe,Credit Card
+10783,1/11/2024,Electronics,,,605.64,1211.28,North America,PayPal
+10784,12/16/2024,Beauty Products,Sunday Riley Good Genes,1,82.89,82.89,Asia,Credit Card
+10785,2/26/2025,Books,The Art of War by Sun Tzu,1,35.26,35.26,North America,Credit Card
+10786,4/12/2025,Home Appliances,,1,895.75,895.75,Asia,Credit Card
+10787,2/3/2024,Sports,,2,304.27,608.54,North America,
+10788,10/18/2024,Books,,2,516.54,1033.08,North America,PayPal
+10789,1/26/2024,Sports,Sports Lite 380,2,34.1,68.2,Asia,Gift Card
+10790,4/17/2025,Sports,,,291.9,583.8,Asia,Credit Card
+10791,3/21/2025,Clothing,,1,545.92,545.92,Europe,PayPal
+10792,1/18/2025,Electronics,,75,991.94,74395.5,Europe,Credit Card
+10793,4/19/2024,Electronics,,2,620.2,1240.4,North America,PayPal
+10794,3/18/2025,Home Appliances,Home Appliances Pro 585,1,615.31,615.31,Asia,
+10795,1/5/2024,Clothing,Adidas Originals Trefoil Hoodie,1,180.64,180.64,Europe,Credit Card
+10796,11/25/2024,Home Appliances,,1,555.99,555.99,Asia,Credit Card
+10797,6/3/2024,Beauty Products,Sunday Riley Luna Sleeping Night Oil,1,1,1,Asia,Debit Card
+10798,12/5/2024,Sports,Sports Standard 674,,1,1,Asia,Credit Card
+10799,2/25/2024,Books,,3,663,2072.54,North America,Credit Card
+10800,5/13/2024,Sports,YETI Hopper Flip Portable Cooler,,289.8,289.8,North America,Credit Card
+10801,1/30/2024,Electronics,,1,748.69,748.69,North America,Debit Card
+10802,5/31/2024,Home Appliances,,,487.37,974.74,Europe,PayPal
+10803,10/19/2024,Books,,1,482.28,482.28,Europe,Debit Card
+10804,8/31/2024,Sports,,1,679.47,679.47,Asia,PayPal
+10805,10/12/2024,Clothing,,2,1,2,North America,Credit Card
+10806,10/13/2024,Sports,Sports Plus 796,1,369.11,369.11,Asia,Debit Card
+10807,4/24/2024,Home Appliances,,3,554.44,1663.32,Europe,Credit Card
+10808,5/30/2024,Sports,,1,420.95,420.95,Europe,Credit Card
+10809,11/13/2024,Electronics,,3,1,3,North America,Bank Transfer
+10810,6/1/2024,Home Appliances,,1,1,1,North America,Credit Card
+10811,10/18/2024,Beauty Products,,3,588.78,1766.34,Asia,Credit Card
+10812,9/6/2024,Home Appliances,,3,1,3,Asia,Credit Card
+10813,4/17/2024,Clothing,Clothing Plus 690,4,1,4,Europe,Credit Card
+10814,2/15/2024,Books,,1,295.31,295.31,Asia,PayPal
+10815,7/15/2024,Sports,Bose SoundLink Color Bluetooth Speaker II,1,661.11,661.11,Asia,PayPal
+10816,3/2/2025,Electronics,,3,1211.63,3634.89,Europe,Debit Card
+10817,12/21/2024,Beauty Products,,6,701.03,4206.18,Europe,Debit Card
+10818,2/3/2024,Beauty Products,,3,522.37,1567.11,North America,Debit Card
+10819,8/10/2024,Home Appliances,,2,1,2,Asia,Debit Card
+10820,3/25/2024,Beauty Products,,1,867.04,926.64,Asia,PayPal
+10821,10/28/2024,Sports,,1,938.27,938.27,North America,Mobile Payment
+10822,5/10/2024,Beauty Products,,2,110.15,220.3,Asia,Credit Card
+10823,1/11/2024,Beauty Products,Clinique Moisture Surge,2,210.5,421,North America,PayPal
+10824,8/30/2024,Beauty Products,Beauty Products Lite 811,2,2683.49,5366.98,,Bank Transfer
+10825,2/21/2024,Electronics,Canon EOS R5 Camera,,371.74,1486.96,Asia,
+10826,4/5/2025,Beauty Products,,1,599.32,599.32,North America,Debit Card
+10827,4/12/2024,Electronics,Electronics Lite 466,,748.18,2244.54,North America,
+10828,4/16/2024,Sports,,3,3686.53,11059.59,North America,
+10829,4/9/2025,Books,The Road by Cormac McCarthy,2.0x,100.87,201.74,North America,Credit Card
+10830,1/5/2025,Clothing,,1,1,1,Asia,Credit Card
+10831,8/25/2024,Electronics,Samsung QLED 4K TV,3,52.41,157.23,Europe,PayPal
+10832,12/12/2024,Home Appliances,,438,569.2,249309.6,North America,Credit Card
+10833,11/27/2024,Sports,,3,879.43,2638.29,Europe,Credit Card
+10834,1/10/2025,Clothing,,3,11.56,34.68,North America,Credit Card
+10835,5/19/2024,Clothing,,2,1,2,Asia,Credit Card
+10836,3/8/2024,Clothing,,2,955.61,1911.22,Asia,PayPal
+10837,9/4/2024,Clothing,,1,1,1,North America,Credit Card
+10838,3/17/2025,Clothing,Ray-Ban Aviator Sunglasses,1,1,1,,Bank Transfer
+10839,8/13/2024,Books,,,4473.33,8946.66,North America,
+10840,9/25/2024,Books,,2,1,2,North America,
+10841,11/12/2024,Home Appliances,,3,747.4,2242.2,Europe,Credit Card
+10842,3/17/2024,Home Appliances,,,673.43,2020.29,Asia,Credit Card
+10843,3/12/2025,Electronics,,301,471.19,141828.19,Asia,PayPal
+10844,5/22/2024,Sports,,2,1,2,Asia,PayPal
+10845,2/10/2024,Clothing,,,79.25,158.5,North America,Credit Card
+10846,3/1/2024,Sports,,,3196.4,9589.2,North America,PayPal
+10847,2/26/2025,Sports,,1,1,1,Asia,Debit Card
+10848,10/14/2024,Clothing,Uniqlo Airism Mesh Boxer Briefs,1,611.46,611.46,North America,Credit Card
+10849,8/20/2024,Beauty Products,,2,199.14,398.28,Europe,PayPal
+10850,8/19/2024,Home Appliances,LG OLED TV,231,20.39,4710.09,North America,
+10851,5/29/2024,Beauty Products,,2,1656.62,3313.24,North America,Credit Card
+10852,3/12/2024,Home Appliances,Home Appliances Basic 209,1,926.1,926.1,North America,
+10853,4/20/2024,Beauty Products,Glossier Boy Brow,,929.94,868,North America,
+10854,4/19/2025,Sports,,,498.26,1494.78,Asia,PayPal
+10855,10/28/2024,Home Appliances,,426,4741.23,2019763.98,Europe,PayPal
+10856,3/5/2025,Beauty Products,,2,1,2,Europe,Debit Card
+10857,3/29/2024,Books,,2,1,2,Europe,Debit Card
+10858,9/15/2024,Books,,2,1,2,Europe,
+10859,6/24/2024,Beauty Products,Beauty Products Advanced 924,4,1,4,Europe,Debit Card
+10860,1/18/2025,Electronics,,1,118.59,118.59,Europe,Credit Card
+10861,11/19/2024,Home Appliances,,3,1,3,Europe,Debit Card
+10862,12/10/2024,Electronics,,2,142.82,297.27,Europe,Credit Card
+10863,2/29/2024,Electronics,,4,587.66,2350.64,Asia,Debit Card
+10864,1/17/2025,Beauty Products,Beauty Products Premium 998,1.0x,94.12,94.12,North America,Credit Card
+10865,1/13/2024,Books,,1,1,1,Europe,Debit Card
+10866,3/23/2024,Beauty Products,,2,472.11,944.22,Asia,Credit Card
+10867,1/20/2025,Clothing,,1,493.01,493.01,Asia,Credit Card
+10868,1/13/2025,Clothing,,2,264.36,528.72,North America,Debit Card
+10869,2/5/2025,Beauty Products,Beauty Products Premium 809,,311.47,1868.82,Asia,Credit Card
+10870,2/7/2025,Books,,430,141.63,60900.9,North America,PayPal
+10871,2/3/2025,Home Appliances,,1,555.82,555.82,North America,Credit Card
+10872,7/7/2024,Electronics,,3,749.02,2247.06,Europe,Credit Card
+10873,12/15/2024,Electronics,,1,639.56,639.56,Europe,
+10874,5/15/2024,Home Appliances,,2,2865.33,5730.66,Europe,PayPal
+10875,3/20/2024,Home Appliances,,1,1,1,North America,Credit Card
+10876,3/7/2025,Sports,,3,853.84,2561.52,Europe,Credit Card
+10877,9/26/2024,Books,The Great Gatsby by F. Scott Fitzgerald,4,537.27,2149.08,North America,
+10878,10/5/2024,Clothing,Under Armour HeatGear T-Shirt,3,329.9,989.7,Europe,Credit Card
+10879,6/18/2024,Books,,,$1.0-ERROR,3,North America,PayPal
+10880,10/14/2024,Home Appliances,,1,605.05,552.32,North America,
+10881,11/10/2024,Clothing,Clothing Lite 140,,169.49,169.49,Europe,PayPal
+10882,2/28/2024,Beauty Products,,,3067.47,3067.47,North America,
+10883,1/29/2025,Beauty Products,Tom Ford Black Orchid Perfume,3,4593.13,13779.39,Asia,Debit Card
+10884,4/8/2024,Clothing,,2,659.99,1319.98,Europe,Credit Card
+10885,10/2/2024,Sports,,,244.97,244.97,North America,Credit Card
+10886,12/16/2024,Beauty Products,Estee Lauder Advanced Night Repair,3,218.01,654.03,North America,Debit Card
+10887,1/14/2025,Clothing,,2,3867.47,7734.94,,
+10888,1/20/2024,Electronics,,1,910.81,910.81,Europe,Debit Card
+10889,4/11/2025,Clothing,,2,1,2,Europe,Credit Card
+10890,7/18/2024,Electronics,,418,58.83,24590.94,Europe,PayPal
+10891,10/26/2024,Beauty Products,MAC Ruby Woo Lipstick,3,652.1,1956.3,North America,Credit Card
+10892,12/17/2024,Books,,1,68.12,68.12,Asia,Mobile Payment
+10893,2/24/2025,Books,,4,248.99,995.96,Asia,Debit Card
+10894,2/11/2025,Books,,2,1,2,Europe,
+10895,2/11/2025,Home Appliances,,2,502.51,1005.02,Asia,Debit Card
+10896,11/1/2024,Beauty Products,,2,966.44,1932.88,Asia,PayPal
+10897,4/7/2025,Books,,3,592,1776,North America,PayPal
+10898,11/11/2024,Beauty Products,,1,1,1,North America,Credit Card
+10899,3/11/2025,Home Appliances,,3,549.1,1647.3,Europe,Credit Card
+10900,1/6/2025,Electronics,Sony PlayStation 5,1,1,1,Asia,PayPal
+10901,5/25/2024,Beauty Products,,4,634.32,2537.28,North America,Debit Card
+10902,6/5/2024,Books,,1,1,1,North America,
+10903,8/7/2024,Home Appliances,,1,1,1,Europe,Debit Card
+10904,8/11/2024,Beauty Products,,2,1,2,North America,PayPal
+10905,8/24/2024,Clothing,,2,1,2,North America,Credit Card
+10906,2/11/2024,Sports,,2,433.83,867.66,North America,
+10907,1/7/2025,Home Appliances,,,524.44,524.44,Asia,Debit Card
+10908,10/23/2024,Sports,,1,2042.47,2042.47,North America,PayPal
+10909,4/2/2025,Electronics,Electronics Advanced 769,3,6.2,18.6,Asia,Debit Card
+10910,1/30/2025,Sports,Fitbit Versa 3,1,681.93,681.93,North America,Credit Card
+10911,1/6/2024,Beauty Products,,1,579.61,579.61,Europe,Credit Card
+10912,10/16/2024,Books,Books Plus 853,2,880.74,1761.48,Asia,Credit Card
+10913,4/28/2024,Sports,,3,743.79,2231.37,Europe,Debit Card
+10914,2/9/2025,Books,,4,824.26,3297.04,,Cryptocurrency
+10915,2/22/2024,Beauty Products,,4,25.05,100.2,Europe,Credit Card
+10916,7/11/2024,Books,,2,625.79,1251.58,North America,Cryptocurrency
+10917,4/9/2025,Sports,,,763.99,763.99,Asia,PayPal
+10918,9/3/2024,Electronics,,2,1193.8,2387.6,Asia,Credit Card
+10919,9/20/2024,Sports,Spalding NBA Street Basketball,1,284.27,284.27,Asia,PayPal
+10920,2/22/2025,Books,The Catcher in the Rye by J.D. Salinger,1,837.61,837.61,North America,Credit Card
+10921,9/2/2024,Books,,1,231.31,231.31,Asia,Credit Card
+10922,3/6/2024,Beauty Products,,1,383.41,383.41,North America,Mobile Payment
+10923,3/16/2024,Books,,3,285.54,856.62,Asia,Gift Card
+10924,10/15/2024,Books,,1,1,1,North America,PayPal
+10925,8/29/2024,Home Appliances,Home Appliances Plus 324,2,565.04,1130.08,Europe,Credit Card
+10926,2/24/2025,Electronics,,2,160.63,321.26,North America,PayPal
+10927,10/29/2024,Sports,,2,626.88,1282.85,North America,Debit Card
+10928,3/16/2025,Sports,,2,1,2,North America,Debit Card
+10929,11/10/2024,Sports,Bose SoundLink Color Bluetooth Speaker II,,315.79,631.58,Europe,Debit Card
+10930,3/7/2024,Electronics,,,270.22,246.79,Asia,Debit Card
+10931,3/23/2025,Sports,,1,207.36,207.36,North America,Credit Card
+10932,1/28/2025,Clothing,,1,66.78,66.78,North America,Credit Card
+10933,10/21/2024,Sports,,1,84.92,84.92,Asia,Credit Card
+10934,2/12/2024,Home Appliances,KitchenAid Stand Mixer,1,85.26,85.26,North America,Credit Card
+10935,2/8/2025,Beauty Products,,1,3618.18,3618.18,Europe,Debit Card
+10936,12/18/2024,Electronics,,2,341.09,682.18,North America,PayPal
+10937,5/13/2024,Beauty Products,,,337.92,337.92,Europe,Credit Card
+10938,1/21/2025,Books,,1,29.92,29.92,North America,Credit Card
+10939,10/11/2024,Home Appliances,,1,1,1,Asia,PayPal
+10940,3/11/2024,Beauty Products,,1,443.42,443.42,North America,PayPal
+10941,2/21/2024,Sports,,2,1,2,Europe,PayPal
+10942,12/16/2024,Clothing,,1,1364.35,1364.35,Europe,Debit Card
+10943,3/15/2024,Clothing,,1,641.94,641.94,North America,Credit Card
+10944,2/10/2024,Beauty Products,Laneige Water Sleeping Mask,1,107.63,107.63,Asia,Credit Card
+10945,5/26/2024,Books,,,1223.84,1223.84,Europe,Credit Card
+10946,4/13/2024,Books,,356,705.18,251044.08,North America,PayPal
+10947,11/10/2024,Home Appliances,,1,1,1,North America,Debit Card
+10948,2/14/2024,Home Appliances,,1,1,1,Europe,Debit Card
+10949,1/8/2024,Clothing,,2,239.01,478.02,Asia,Debit Card
+10950,10/25/2024,Home Appliances,,1,1,1,North America,Debit Card
+10951,7/25/2024,Home Appliances,,3,363.59,1090.77,Europe,
+10952,9/14/2024,Electronics,,2,1,2,North America,PayPal
+10953,2/20/2025,Sports,Sports Premium 810,1,1.87,1.87,Asia,PayPal
+10954,5/4/2024,Clothing,,1,558.13,558.13,Asia,Credit Card
+10955,2/4/2024,Clothing,,4,1,4,,Mobile Payment
+10956,6/29/2024,Clothing,,1,353.59,353.59,North America,Credit Card
+10957,7/23/2024,Clothing,,141,1224.1,172598.1,Asia,PayPal
+10958,4/2/2025,Books,,2,1,2,Asia,Credit Card
+10959,9/12/2024,Electronics,Electronics Lite 853,4,1,4,North America,PayPal
+10960,3/3/2025,Electronics,,,1,1,North America,Credit Card
+10961,12/12/2024,Beauty Products,Beauty Products Advanced 728,,741.15,361681.2,Europe,
+10962,11/13/2024,Electronics,,3,40.69,122.07,Asia,PayPal
+10963,4/13/2025,Sports,,3,899.63,2698.89,Europe,Credit Card
+10964,9/1/2024,Electronics,Electronics Pro 614,2,$911.1-ERROR,1822.2,Asia,Credit Card
+10965,8/22/2024,Clothing,,2,1843.01,3686.02,North America,PayPal
+10966,10/24/2024,Beauty Products,,2,609.65,1142.26,Asia,Debit Card
+10967,5/1/2024,Beauty Products,,1,1,1,Asia,Credit Card
+10968,8/2/2024,Beauty Products,Beauty Products Standard 473,1,612.61,612.61,Asia,Credit Card
+10969,3/8/2024,Clothing,Clothing Lite 933,188,821.55,154451.4,North America,Credit Card
+10970,3/14/2025,Home Appliances,,,36.06,108.18,Asia,Credit Card
+10971,1/5/2024,Clothing,Nike Dri-FIT Training Shorts,1,317.26,317.26,Asia,Credit Card
+10972,9/30/2024,Books,Books Advanced 407,1,549.49,549.49,Europe,PayPal
+10973,3/24/2024,Beauty Products,,1,607.95,607.95,Asia,PayPal
+10974,6/20/2024,Electronics,,,1,2,Europe,Debit Card
+10975,1/11/2024,Sports,,4,167.66,670.64,Asia,Credit Card
+10976,10/21/2024,Home Appliances,,2,9.23,18.46,Europe,Debit Card
+10977,12/10/2024,Electronics,,1,453.07,453.07,North America,PayPal
+10978,11/19/2024,Home Appliances,,4,1,4,North America,Credit Card
+10979,10/19/2024,Books,,225,924.35,207978.75,Asia,
+10980,5/29/2024,Beauty Products,Beauty Products Basic 377,,322.2,644.4,Asia,PayPal
+10981,1/17/2025,Books,,,863.89,863.89,North America,Credit Card
+10982,12/4/2024,Beauty Products,,3,$968.4-ERROR,2905.2,Asia,
+10983,8/30/2024,Books,,1,29.21,29.21,Asia,Credit Card
+10984,2/23/2024,Electronics,,249,1005.8,250444.2,North America,PayPal
+10985,5/25/2024,Books,,2,831.77,1663.54,North America,Credit Card
+10986,3/16/2025,Books,,,4.24,8.48,Asia,Cryptocurrency
+10987,8/15/2024,Home Appliances,,2,429.93,859.86,Europe,Credit Card
+10988,11/21/2024,Electronics,,1,1165.25,1165.25,North America,PayPal
+10989,9/3/2024,Home Appliances,,1,678.15,678.15,Asia,
+10990,6/4/2024,Clothing,Gap 1969 Original Fit Jeans,,1,1,Asia,Credit Card
+10991,8/28/2024,Home Appliances,Anova Precision Cooker,2,715.22,1430.44,Europe,Debit Card
+10992,5/29/2024,Home Appliances,,1,751.84,751.84,Asia,Credit Card
+10993,8/11/2024,Clothing,,1,365.52,365.52,North America,Debit Card
+10994,4/22/2024,Beauty Products,,1,17.46,17.46,Europe,Credit Card
+10995,11/9/2024,Electronics,,2,423.55,847.1,Europe,PayPal
+10996,4/6/2024,Electronics,,2,1,2,Europe,Debit Card
+10997,5/19/2024,Books,Books Advanced 292,1,1,1,Europe,
+10998,1/12/2024,Sports,,1,466.4,466.4,Europe,Credit Card
+10999,1/5/2024,Electronics,,161,868.75,139868.75,Europe,Credit Card
+11000,2/13/2025,Beauty Products,,1,324.17,324.17,Europe,Credit Card
+11001,3/7/2025,Electronics,Electronics Plus 157,1,229.09,229.09,Asia,PayPal
+11002,4/2/2024,Home Appliances,,4,884.07,3536.28,Asia,Credit Card
+11003,5/7/2024,Sports,,2,872.19,1744.38,Europe,PayPal
+11004,1/11/2025,Books,,4,1,4,Asia,Debit Card
+11005,3/22/2024,Electronics,,4,740.61,2962.44,Asia,
+11006,6/1/2024,Sports,,1,816.45,816.45,Asia,Credit Card
+11007,6/15/2024,Sports,,1,1292.96,1292.96,North America,PayPal
+11008,1/22/2024,Home Appliances,,1,195.83,195.83,Asia,Credit Card
+11009,5/7/2024,Beauty Products,,,814.72,1629.44,,Cryptocurrency
+11010,1/23/2025,Electronics,,1,1062.96,1062.96,Asia,Credit Card
+11011,2/24/2024,Sports,On Running Cloud Shoes,3,474.14,1422.42,North America,Credit Card
+11012,6/26/2024,Books,,1,1,1,North America,
+11013,3/9/2024,Beauty Products,,1,1,1,North America,PayPal
+11014,12/22/2024,Books,,1,1,1,North America,
+11015,3/20/2025,Sports,,1,123.21,123.21,Asia,Debit Card
+11016,10/4/2024,Clothing,Levi's 501 Jeans,1,1,1,North America,PayPal
+11017,3/28/2025,Electronics,,3,64,192,North America,PayPal
+11018,12/3/2024,Clothing,,3,206.86,620.58,North America,PayPal
+11019,11/9/2024,Home Appliances,,2,132.58,265.16,Europe,Credit Card
+11020,2/4/2024,Clothing,,3,1428.22,4284.66,Asia,
+11021,4/8/2024,Home Appliances,,2,1,2,Asia,Credit Card
+11022,11/15/2024,Clothing,Clothing Premium 150,3,965.11,2895.33,North America,Credit Card
+11023,4/16/2024,Beauty Products,,1,231.7,231.7,Europe,Credit Card
+11024,1/15/2025,Clothing,,,1,1,Europe,Debit Card
+11025,5/16/2024,Beauty Products,,2,162.55,325.1,North America,Credit Card
+11026,9/22/2024,Clothing,,1,21.67,21.67,North America,Credit Card
+11027,5/7/2024,Beauty Products,,2,461.94,923.88,North America,Debit Card
+11028,1/27/2025,Sports,,1,1,1,Europe,Credit Card
+11029,2/23/2024,Beauty Products,Drunk Elephant C-Firma Day Serum,,458.21,458.21,Asia,Credit Card
+11030,9/30/2024,Electronics,Electronics Advanced 460,3,19.54,58.62,Asia,Credit Card
+11031,3/8/2025,Electronics,,3,614.5,1843.5,Europe,Debit Card
+11032,10/6/2024,Home Appliances,iRobot Braava Jet M6,,1216.24,3648.72,Europe,Credit Card
+11033,8/17/2024,Home Appliances,,195,1,195,Europe,Debit Card
+11034,3/31/2025,Home Appliances,,2,419.1,838.2,Asia,PayPal
+11035,1/30/2025,Beauty Products,Beauty Products Premium 666,3,1,3,North America,Debit Card
+11036,2/18/2024,Electronics,Microsoft Surface Laptop 4,3,548.37,1645.11,North America,
+11037,5/7/2024,Books,,254,768.02,195077.08,Europe,Credit Card
+11038,2/9/2024,Home Appliances,,3,1,3,Asia,Credit Card
+11039,2/23/2025,Books,,3,527.96,1583.88,Asia,Credit Card
+11040,1/29/2025,Electronics,,2,1,2,Asia,Credit Card
+11041,4/26/2024,Beauty Products,,1,1,1,Asia,Credit Card
+11042,1/22/2024,Clothing,,1,1009.97,1009.97,Europe,Credit Card
+11043,1/26/2024,Home Appliances,Ninja Foodi Pressure Cooker,2,269.53,539.06,North America,Debit Card
+11044,2/16/2024,Books,,2,1302.74,2605.48,North America,
+11045,8/31/2024,Books,,,1,2,Europe,Credit Card
+11046,8/10/2024,Beauty Products,,,1,2,Asia,Debit Card
+11047,11/29/2024,Beauty Products,L'Occitane Shea Butter Hand Cream,,734.85,2204.55,Asia,Credit Card
+11048,2/6/2024,Electronics,,1,$835.87-ERROR,921.84,Europe,
+11049,8/4/2024,Books,,1,652.41,652.41,North America,PayPal
+11050,6/28/2024,Home Appliances,,3,1070.04,3210.12,Europe,Credit Card
+11051,4/29/2024,Electronics,Samsung Odyssey G9 Gaming Monitor,,869.79,869.79,Europe,
+11052,5/4/2024,Beauty Products,,2,1,2,North America,Credit Card
+11053,2/15/2025,Books,,3,332.2,996.6,North America,PayPal
+11054,4/18/2024,Clothing,Gap 1969 Original Fit Jeans,5,1,5,North America,Credit Card
+11055,3/13/2024,Home Appliances,Blueair Classic 480i,4,222.86,859.2,Europe,
+11056,5/10/2024,Sports,,,832.06,1664.12,North America,Credit Card
+11057,8/26/2024,Clothing,Levi's 501 Jeans,388,334.28,129700.64,Asia,PayPal
+11058,12/3/2024,Home Appliances,,494,381.79,188604.26,North America,PayPal
+11059,7/13/2024,Beauty Products,,1,681.18,681.18,Asia,PayPal
+11060,2/15/2024,Beauty Products,Tom Ford Black Orchid Perfume,3,1,3,North America,Credit Card
+11061,1/21/2024,Clothing,Gap 1969 Original Fit Jeans,,638,1276,North America,Credit Card
+11062,1/10/2024,Sports,,2,260.53,521.06,Europe,PayPal
+11063,9/13/2024,Electronics,,1,861.55,861.55,North America,PayPal
+11064,2/21/2025,Beauty Products,,,235.36,1176.8,Asia,Credit Card
+11065,2/14/2024,Home Appliances,,1,595.55,595.55,Asia,
+11066,4/10/2025,Beauty Products,,2,770.68,1541.36,Europe,PayPal
+11067,2/13/2025,Clothing,,2,1,2,Europe,Credit Card
+11068,3/10/2024,Sports,,1,811.89,811.89,Asia,
+11069,2/4/2024,Beauty Products,,1,514.74,514.74,Asia,Credit Card
+11070,6/12/2024,Electronics,Electronics Basic 521,1,538.53,538.53,Europe,Credit Card
+11071,11/22/2024,Clothing,,,1,2,,Cryptocurrency
+11072,1/25/2025,Clothing,,2,1,2,North America,Debit Card
+11073,12/17/2024,Clothing,,,869.14,869.14,Europe,PayPal
+11074,11/5/2024,Electronics,,1,526.58,526.58,North America,
+11075,3/24/2024,Books,,2,1,2,Europe,Credit Card
+11076,7/30/2024,Clothing,,4,406.4,1625.6,North America,Credit Card
+11077,8/12/2024,Books,,1,498.59,498.59,Europe,Credit Card
+11078,7/26/2024,Beauty Products,,,1,2,Europe,Debit Card
+11079,10/31/2024,Clothing,,2,1,2,North America,Credit Card
+11080,1/22/2024,Books,,1,693.7,693.7,North America,Debit Card
+11081,1/26/2025,Beauty Products,,,372.59,1117.77,North America,PayPal
+11082,1/31/2025,Books,,2,758.48,1516.96,North America,Debit Card
+11083,3/13/2024,Electronics,,306,599.28,183379.68,Asia,
+11084,4/2/2025,Home Appliances,,2,726.84,1453.68,Europe,Debit Card
+11085,4/4/2025,Beauty Products,,215,1,215,Europe,Debit Card
+11086,2/11/2025,Sports,,411,1,411,Europe,PayPal
+11087,9/25/2024,Clothing,Clothing Plus 487,1,1683.54,1683.54,North America,
+11088,6/20/2024,Sports,Hyperice Hypervolt Massager,1,55.14,55.14,Europe,Credit Card
+11089,1/27/2024,Beauty Products,,2,755.32,1510.64,Europe,Debit Card
+11090,4/2/2024,Books,,,4061.58,8123.16,Asia,PayPal
+11091,1/7/2024,Clothing,,3,4530.81,13592.43,Asia,
+11092,5/1/2024,Books,,2,1,2,Europe,Credit Card
+11093,1/4/2024,Electronics,,4,592.6,2370.4,Europe,Credit Card
+11094,4/16/2024,Books,Educated by Tara Westover,228,4415.32,1006692.96,North America,Credit Card
+11095,12/7/2024,Electronics,Bose QuietComfort 35 II Wireless Headphones,1,708.48,708.48,Europe,Credit Card
+11096,4/1/2024,Clothing,,1,1,1,Europe,Debit Card
+11097,2/7/2025,Electronics,,4,884.26,3537.04,Europe,Credit Card
+11098,6/14/2024,Electronics,,4,1169.38,4677.52,Asia,PayPal
+11099,2/3/2024,Sports,Titleist Pro V1 Golf Balls,4,539.8,2159.2,North America,Gift Card
+11100,7/30/2024,Sports,Spalding NBA Street Basketball,1,189.77,189.77,North America,Credit Card
+10253,12/1/2024,Clothing,,3,1,3,Europe,Credit Card
+10390,2/9/2025,Sports,Nike Metcon 6,495,639.75,316676.25,North America,Credit Card
+10742,3/5/2025,Home Appliances,,,1,2,Asia,Debit Card
+11098,6/14/2024,Electronics,,4,1169.38,4677.52,Asia,PayPal
+10703,12/2/2024,Books,,2,434.06,868.12,Europe,PayPal
+10536,8/1/2024,Electronics,,2,680.51,1361.02,North America,
+10167,6/15/2024 0:00,Beauty Products,,1,16.99,16.99,Europe,PayPal
+11048,2/6/2024,Electronics,,1,$835.87-ERROR,835.87,Europe,
+10078,3/18/2024 0:00,Sports,Rogue Fitness Kettlebell,3,69.99,209.97,Asia,Credit Card
+10885,10/2/2024,Sports,,,244.97,244.97,North America,Credit Card
+11046,8/10/2024,Beauty Products,,,1,2,Asia,Debit Card
+10941,2/21/2024,Sports,,2,1,2,Europe,PayPal
+10491,5/19/2024,Home Appliances,,,1,3,Europe,Credit Card
+10730,10/25/2024,Electronics,Bose QuietComfort 35 Headphones,83,995.29,82609.07,Asia,Credit Card
+10674,7/31/2024,Electronics,Bose QuietComfort 35 Headphones,,757.81,757.81,Asia,
+10106,4/15/2024 0:00,Books,The Girl on the Train by Paula Hawkins,4,10.99,43.96,North America,
+10822,5/10/2024,Beauty Products,,2,110.15,220.3,Asia,Credit Card
+10882,2/28/2024,Beauty Products,,,3067.47,3067.47,North America,
+10973,3/24/2024,Beauty Products,,1,607.95,607.95,Asia,PayPal
+10414,2/16/2024,Home Appliances,,3,427.18,1281.54,Asia,Credit Card
+10784,12/16/2024,Beauty Products,Sunday Riley Good Genes,1,82.89,82.89,Asia,Credit Card
+10519,12/16/2024,Clothing,,80,337.91,27032.8,Asia,
+10997,5/19/2024,Books,Books Advanced 292,1,1,1,Europe,
+11002,4/2/2024,Home Appliances,,4,884.07,3536.28,Asia,Credit Card
+10367,7/29/2024,Home Appliances,,4,1,4,Europe,Credit Card
+10230,8/17/2024 0:00,Home Appliances,,1,599,599,Europe,PayPal
+10643,2/24/2024,Books,,1,102.6,102.6,Europe,Debit Card
+10707,3/26/2024,Clothing,,3,1,3,North America,PayPal
+11051,4/29/2024,Electronics,Samsung Odyssey G9 Gaming Monitor,,869.79,869.79,Europe,
+10039,2/8/2024 0:00,Clothing,,4,59.99,239.96,Asia,Debit Card
+10373,1/8/2024,Books,1984 by George Orwell,3.0x,973.53,2920.59,North America,Credit Card
+10987,8/15/2024,Home Appliances,,2,429.93,859.86,Europe,Credit Card
+10868,1/13/2025,Clothing,,2,264.36,528.72,North America,Debit Card
+10777,8/22/2024,Sports,,4,489.9,1959.6,North America,Credit Card
+11010,1/23/2025,Electronics,,1,1062.96,1062.96,Asia,Credit Card
+10492,7/16/2024,Electronics,,,1,2,Europe,PayPal
+10216,8/3/2024 0:00,Sports,,4,349.99,1399.96,Asia,Credit Card
+10928,3/16/2025,Sports,,2,0.96,1.92,North America,Debit Card
+10287,3/25/2025,Beauty Products,,1,1410.68,1410.68,Europe,Credit Card
+10871,2/3/2025,Home Appliances,,1,555.82,555.82,North America,Credit Card
+11055,3/13/2024,Home Appliances,Blueair Classic 480i,4,212.31,849.24,Europe,
+10590,3/9/2024,Beauty Products,,5,1101.04,5505.2,North America,Credit Card
+10482,1/9/2024,Sports,,1,555.19,555.19,North America,Credit Card
+10190,7/8/2024 0:00,Books,,3,10.99,32.97,North America,Credit Card
+10892,12/17/2024,Books,,1,64.76,64.76,Asia,Mobile Payment
+10249,7/5/2024,Electronics,Microsoft Surface Laptop 4,1,359.2,359.2,Asia,Credit Card
+10641,4/13/2025,Books,,1,1,1,Europe,Credit Card
+10067,3/7/2024 0:00,Electronics,,1,1199.99,1253.28,North America,Credit Card
+10941,2/21/2024,Sports,,3,1,3,Europe,PayPal
+10260,3/6/2025,Clothing,,3,1,3,North America,Credit Card
+10365,8/14/2024,Books,,3,362.42,1087.26,Europe,
+10998,1/12/2024,Sports,,1,468.09,468.09,Europe,Credit Card
+10675,5/22/2024,Electronics,,1,224.6,224.6,Europe,Credit Card
+10837,9/4/2024,Clothing,,1,1.03,1.03,North America,Credit Card
+10236,8/23/2024 0:00,Home Appliances,Nespresso Vertuo Next Coffee and Espresso Maker,1,165.78,165.78,Europe,PayPal
